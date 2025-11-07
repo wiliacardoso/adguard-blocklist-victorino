@@ -1,10 +1,11 @@
 # Lista Rígida Escolar - Bloqueio Total v3 (Otimizada)
-# Nome: wiliam-lista-adguardhome-victorino
 # Uso: AdGuard Home / DNS Sinkhole
-# Atualizado e Otimizado por Gestor de TI
+# Atualizado e Otimizado por Wiliam
 
 ! ========================================
+
 ! BLOQUEIO REDES SOCIAIS
+
 ! ========================================
 ||facebook.com^
 ||fbcdn.net^
@@ -27,8 +28,11 @@
 ||tumblr.com^
 ||twitch.tv^
 
+
 ! ========================================
+
 ! BLOQUEIO JOGOS & PLATAFORMAS (Deduplicado e Unificado)
+
 ! ========================================
 ||1001jogos.com.br^
 ||1v1.lol^
@@ -159,8 +163,11 @@
 ||zombs.io^
 ||zombsroyale.io^
 
+
 ! ========================================
+
 ! BLOQUEIO APOSTAS ONLINE (GAMBLING)
+
 ! ========================================
 ||blaze.com^
 ||bet365.com^
@@ -176,8 +183,11 @@
 ||betnacional.com^
 ||f12.bet^
 
+
 ! ========================================
+
 ! BLOQUEIO EMULADORES / ROMS / FLASH
+
 ! ========================================
 ||emulatoronline.com^
 ||retrogames.cc^
@@ -191,9 +201,13 @@
 ||silvergames.com^
 ||numuki.com^
 
+
 ! ========================================
+
 ! BLOQUEIO "UNBLOCKED" (WILDCARDS DE ALTO IMPACTO)
+
 ! ========================================
+
 ! CUIDADO: Essas regras são poderosas. Monitore os logs.
 ||unblocked-games.s3.amazonaws.com^
 ||unblockedgames66.com^
@@ -217,8 +231,11 @@
 ||*.unblocked^
 ||*unblocked*.com^
 
+
 ! ========================================
+
 ! BLOQUEIO VPN / BYPASS / PROXY
+
 ! ========================================
 ||protonvpn.com^
 ||nordvpn.com^
@@ -242,8 +259,11 @@
 ||supervpn.co^
 ||fastvpn.com^
 
+
 ! ========================================
+
 ! BLOQUEIO DE FUGA DE DNS CRIPTOGRAFADO (DoH)
+
 ! ========================================
 ||cloudflare-dns.com^
 ||mozilla.cloudflare-dns.com^
@@ -272,8 +292,11 @@
 ||resolver2.opendns.com^
 ||resolver3.opendns.com^
 
+
 ! ========================================
+
 ! BLOQUEIO IPTV / STREAM PIRATA (Sintaxe Corrigida)
+
 ! ========================================
 ||xtream.codes^
 ||smartiptv.com^
@@ -290,3 +313,188 @@
 ||redecanais.to^
 ||redecanais.com^
 ||redecanais.net^
+
+
+! Lista agressiva de bloqueio — jogos online, simuladores e CDNs
+
+! Formato: AdGuard/Adblock rules (use em "Custom filtering rules" ou como blocklist)
+
+! Geração: Wiliam — bloqueio escolar
+
+
+! SITES DE JOGOS / PORTAIS
+||minijogos.com^
+||pokipoki.com^
+||y8cdn.com^
+||frivclassic.com^
+||agame.com^
+||kongregate.com^
+||kbhgames.com^
+||gamepix.com^
+||gamedistribution.com^
+||gamemonetize.com^
+||gamearter.com^
+||gamesgames.com^
+||gameszap.com^
+||gamesloon.com^
+||games4html5.com^
+||coolmathgamesimages.com^
+||playhub.com^
+||playfun.com^
+||playgamesonline.io^
+||playit-online.com^
+||gameforge.com^
+||webgames.io^
+||webgamesonline.io^
+||gamespot.com^
+||games.yahoo.com^
+||pogo.com^
+||nitrome.com^
+||funonlinegames.com^
+||freegames.com^
+||gamesvault.net^
+||yandexgames.com^
+||gametop.com^
+
+
+! SITES BRASILEIROS / PT-BR
+||jogos360.com^
+||jogosgratis.com.br^
+||jogosgratis.online^
+||jogos.online^
+||jogos.com.br^
+||jogos21.com.br^
+||jogosdahoje.com^
+||brincarjogos.com^
+||jogosdivertidos.com.br^
+||jogospara.com^
+||jogosinfantis.com.br^
+
+
+! IO / MULTIPLAYER SIMPLES (muitos subdomínios)
+||paper-io.com^
+||bonk.io^
+||skribbl.io^
+||skribbl.me^
+||splix.io^
+||brutal.io^
+||slopegame.io^
+||hole-io^
+||tileman.io^
+||swoop.io^
+||zim.bio^
+
+
+! EMULADORES / RETRO / ROMS / RETRO-PLAY
+||emulator.online^
+||classicreload.com^
+||romhustler.org^
+||romsmania.cc^
+
+
+! SITES “UNBLOCKED” / PROXY DE JOGOS
+||unblockedgames.org^
+||unblockedgamespod.com^
+||unblockedgamesdev.com^
+||unblocked.gamess^
+||funblockedgames.org^
+
+
+! SITES EDUCATIVOS/INFANTIS COM JOGOS (se necessário bloquear)
+||disneygames.com^
+||nick.com^
+||nickjr.com^
+
+
+! SITES DE ENGINES / MOTORES USADOS POR JOGOS (pode afetar funcionamento dos próprios jogos)
+||phaser.io^
+||pixijs.com^
+||godotengine.org^
+||babylonjs.com^
+||unity.com^
+||unitycdn.com^
+||unrealengine.com^
+
+
+! SITES DE PUBLISHERS / PORTAIS DE GAMES (web ports)
+||gamedistribution.net^
+
+
+! SITES DE ANÚNCIOS E MONETIZAÇÃO DE JOGOS (muitas vezes usados por portais)
+||adsafeprotected.com^
+||adservice.google.com^
+||googlesyndication.com^
+||doubleclick.net^
+
+
+! CDN / HOSTING / STORAGE USADOS POR JOGOS (bloqueio agressivo — pode quebrar sites legítimos)
+||amazonaws.com^
+||s3.amazonaws.com^
+||cloudfront.net^
+||cloudflare.com^
+||cloudflare.net^
+||akamaized.net^
+||akamaitechnologies.com^
+||akamaized-staging.net^
+||akamaiedge.net^
+||edgesuite.net^
+||edgekey.net^
+||edgecastcdn.net^
+||fastly.net^
+||fastlylb.net^
+||jsdelivr.net^
+||cdn.jsdelivr.net^
+||cdnjs.cloudflare.com^
+||stackpathcdn.com^
+||stackpath.bootstrapcdn.com^
+||azureedge.net^
+||digitaloceanspaces.com^
+||netlify.app^
+||googleusercontent.com^
+||googleapis.com^
+||gstatic.com^
+||akamaihd.net^
+
+
+! VARIAÇÕES COMUNS / PREFIXOS (geralmente cobertos por ||domínio^ mas listadas para redundância)
+||cdn.poki.com^
+||static.poki.com^
+||assets.poki.com^
+||cdn.crazygames.com^
+||static.crazygames.com^
+||cdn.y8.com^
+||static.y8cdn.com^
+
+
+! SITES DE “MINI JOGOS” E AGREGADORES
+||miniclip.com^
+||armor games^
+||games.lol^
+
+
+! SITES DE PLATAFORMAS SOCIAIS/VIDEO COM RENDERIZAÇÃO DE JOGOS (se quiser bloquear embed/streams)
+||twitchcdn.net^
+||youtube.com^
+||youtube-nocookie.com^
+
+
+! FERRAMENTAS E EDITORES ONLINE USADOS PARA RODAR JOGOS
+||scirra.com^
+||phasereditor2d.com^
+||construct.net^
+
+
+! OUTROS DOMÍNIOS RELEVANTES / VARIADOS
+||playentry.org^
+||mmo123.com^
+||yoyogames.com^
+||miniclipcdn.com^
+||hotgames.com.br^
+||jogosonlinewx.com.br^
+||jogoscool.com^
+||jogosemmidia.com^
+||jogosdomania.com^
+
+
+! --------- FIM DA LISTA ----------
+
