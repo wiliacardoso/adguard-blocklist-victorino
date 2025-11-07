@@ -1,0 +1,154 @@
+! #####################################################################
+! ## LISTA DE PERMISSÕES (WHITELIST) EDUCACIONAL - AdGuard Home
+! ## Criada por: Wiliam Rodrigues
+! ## Formato: @@||dominio.com^ (permite o domínio e subdomínios)
+! ## VERSÃO OTIMIZADA (SEM DUPLICIDADES)
+! #####################################################################
+
+! ---------------------------------------------------------------------
+! Plataformas de Produtividade e Colaboração (Google & Microsoft)
+! Essencial para login, e-mail, documentos e videochamadas.
+! ---------------------------------------------------------------------
+
+! Google Workspace for Education (Classroom, Meet, Drive, Docs)
+@@||accounts.google.com^
+@@||classroom.google.com^
+@@||drive.google.com^
+@@||docs.google.com^
+@@||sheets.google.com^
+@@||slides.google.com^
+@@||forms.google.com^
+@@||meet.google.com^
+@@||mail.google.com^
+@@||chat.google.com^
+@@||admin.google.com^
+
+! ========================================
+! LIBERAÇÕES ESSENCIAIS
+! ========================================
+@@||microsoft.com^
+@@||windowsupdate.com^
+@@||officecdn.microsoft.com^
+@@||visualstudio.microsoft.com^
+@@||marketplace.visualstudio.com^
+@@||learn.microsoft.com^
+@@||github.com^
+@@||githubusercontent.com^
+@@||google.com^
+@@||gstatic.com^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||apis.google.com^
+@@||clients.google.com^
+@@||update.googleapis.com^
+@@||youtube.com^$important
+@@||portalsaseducacao.com.br^
+@@||static.portalsas.com.br^
+@@||eureka.portalsaseducacao.com.br^
+@@||livrosdigitais.portalsaseducacao.com.br^
+@@||educacross.com.br^
+@@||classapp.co^
+@@||cambridgeone.org^
+@@||genially.com^
+@@||netacad.com^
+
+! Microsoft 365 (Teams, OneDrive, Office Online)
+@@||login.microsoftonline.com^
+@@||login.live.com^
+@@||office.com^
+@@||office.net^
+@@||teams.microsoft.com^
+@@||onedrive.live.com^
+@@||onedrive.com^
+@@||sharepoint.com^
+@@||outlook.com^
+@@||forms.office.com^
+@@||graph.microsoft.com^
+@@||word-view.officeapps.live.com^
+
+! ---------------------------------------------------------------------
+! CDNs Essenciais e Recursos (Muitas vezes bloqueados)
+! Necessários para que os sites acima carreguem corretamente.
+! ---------------------------------------------------------------------
+@@||ssl.gstatic.com^
+@@||google-analytics.com^
+@@||googleapis.com^
+@@||googletagmanager.com^
+@@||msecnd.net^
+@@||msftauth.net^
+@@||cdn-storage.arcotech.io^
+@@||avl-portal-platform-frontend.arcotech.io^
+
+
+! ---------------------------------------------------------------------
+! Plataformas de Conteúdo e LMS (Learning Management Systems)
+! ---------------------------------------------------------------------
+! Conteúdo Geral
+@@||khanacademy.org^
+@@||pt.khanacademy.org^
+@@||wikipedia.org^
+@@||wikimedia.org^
+@@||ted.com^
+
+! LMS Populares
+@@||canvas.instructure.com^
+@@||moodle.org^
+@@||moodle.com^
+@@||edmodo.com^
+
+! ---------------------------------------------------------------------
+! YouTube (Essencial para vídeos educacionais)
+! NOTA: Isso libera o YouTube por completo.
+! ---------------------------------------------------------------------
+@@||youtube-nocookie.com^
+@@||googlevideo.com^
+@@||ytimg.com^
+@@||yt3.ggpht.com^
+@@||i.ytimg.com^
+
+! ---------------------------------------------------------------------
+! STEM, Programação e Ferramentas Criativas
+! ---------------------------------------------------------------------
+@@||scratch.mit.edu^
+@@||code.org^
+@@||studio.code.org^
+@@||phet.colorado.edu^
+@@||geogebra.org^
+@@||wolframalpha.com^
+@@||tinkercad.com^
+@@||autodesk.com^
+@@||canva.com^
+@@||prezi.com^
+@@||figma.com^
+
+! ---------------------------------------------------------------------
+! Aprendizado de Idiomas
+! ---------------------------------------------------------------------
+@@||duolingo.com^
+@@||memrise.com^
+
+! ---------------------------------------------------------------------
+! Plataformas Nacionais (Brasil)
+! ---------------------------------------------------------------------
+! MEC e Governo
+@@||mec.gov.br^
+@@||gov.br^
+@@||inep.gov.br^
+@@||enem.inep.gov.br^
+@@||plataformaintegrada.mec.gov.br^
+@@||capes.gov.br^
+@@||cnpq.br^
+
+! Plataformas de Preparação e Estudo
+@@||descomplica.com.br^
+@@||stoodi.com.br^
+@@||geekie.com.br^
+@@||mesalva.com^
+@@||proenem.com.br^
+@@||qmagico.com.br^
+
+! ---------------------------------------------------------------------
+! Ferramentas de Videoconferência (Alternativas)
+! ---------------------------------------------------------------------
+@@||zoom.us^
+@@||webex.com^
