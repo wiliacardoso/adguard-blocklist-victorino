@@ -51,6 +51,14 @@
 @@||cambridgeone.org^
 @@||genially.com^
 @@||netacad.com^
+@@||cdn-storage.arcotech.io^$important
+@@||avl-portal-platform-frontend.arcotech.io^$important
+@@||cdn.arcotech.io^$important
+@@||cdo-lms-web-prd.arcotech.io^$important
+@@||onb-news-api-backend-prd.s3.us-east-1.amazonaws.com^$important
+@@||cdo-lms-bff.arcotech.io^$important
+@@||bam.nr-data.net^$important
+@@||cdn.mouseflow.com^$important
 
 ! Microsoft 365 (Teams, OneDrive, Office Online)
 @@||login.microsoftonline.com^
