@@ -1,0 +1,292 @@
+# Lista Rígida Escolar - Bloqueio Total v3 (Otimizada)
+# Nome: wiliam-lista-adguardhome-victorino
+# Uso: AdGuard Home / DNS Sinkhole
+# Atualizado e Otimizado por Gestor de TI
+
+! ========================================
+! BLOQUEIO REDES SOCIAIS
+! ========================================
+||facebook.com^
+||fbcdn.net^
+||instagram.com^
+||cdninstagram.com^
+||tiktok.com^
+||tiktokcdn.com^
+||snapchat.com^
+||whatsapp.com^
+||web.whatsapp.com^
+||wa.me^
+||twitter.com^
+||x.com^
+||twimg.com^
+||reddit.com^
+||discord.com^
+||discord.gg^
+||pinterest.com^
+||kwai.com^
+||tumblr.com^
+||twitch.tv^
+
+! ========================================
+! BLOQUEIO JOGOS & PLATAFORMAS (Deduplicado e Unificado)
+! ========================================
+||1001jogos.com.br^
+||1v1.lol^
+||addictinggames.com^
+||agar.io^
+||arcademy.games^
+||armorgames.com^
+||basketbros.io^
+||basketrandom.com^
+||bestcrazygames.com^
+||bigfishgames.com^
+||blockman.org^
+||buildroyale.io^
+||classic.minecraft.net^
+||clickjogos.com.br^
+||coolmathgames.com^
+||coolmathgameskids.com^
+||crazygames.com^
+||crazysgames.com^
+||diep.io^
+||eaglercraft.com^
+||eaglercraft.net^
+||epicgames.com^
+||ev.io^
+||extremecraft.net^
+||fancade.com^
+||fortnite.com^
+||freefiremobile.com^
+||friv.com^
+||friv-2013.com^
+||friv-2018.com^
+||friv-2023.com^
+||friv2online.com^
+||frivjogosonline.com.br^
+||frivplus.com^
+||gamaverse.com^
+||gamebanana.com^
+||gameflare.com^
+||gamehouse.com^
+||gamejolt.com^
+||gamer.org^
+||gartic.io^
+||gog.com^
+||happywheels.best^
+||hole.io^
+||html5games.com^
+||htmlgames.com^
+||iogames.fun^
+||iogames.games^
+||iogames.live^
+||iogames.space^
+||iogames.top^
+||iogames.zone^
+||itch.io^
+||itch.zone^
+||itchgames.net^
+||itchy.io^
+||jogarmania.com^
+||jogos123.net^
+||jogos360.com.br^
+||jogosdemeninas.com.br^
+||jogosgratisparacelular.com^
+||jogosonlinegratis.uol.com.br^
+||kidzsearch.com^
+||kiz10.com^
+||kizi.com^
+||konkregate.com^
+||krunker.io^
+||lagged.com^
+||leagueoflegends.com^
+||minecraft.net^
+||minecraftforfree.net^
+||minijogos.com.br^
+||mojang.com^
+||monstercrawler.com^
+||mope.io^
+||mousebreaker.com^
+||newgrounds.com^
+||onlinegames.io^
+||paper.io^
+||pbskids.org^
+||play-games.com^
+||playretrogames.com^
+||plays.org^
+||plonga.com^
+||pog.com^
+||poki.com^
+||poki.cz^
+||poki.games^
+||poki.gg^
+||poki.io^
+||pokiapp.com^
+||rbxcdn.com^
+||riotgames.com^
+||roblox.com^
+||robloxcdn.com^
+||rolimons.com^
+||roproxy.com^
+||shellshock.io^
+||sitesnotblocked.com^
+||slope-game.com^
+||slither.io^
+||soccer-random.com^
+||steamcommunity.com^
+||steampowered.com^
+||steamstatic.com^
+||stickmanfight.com^
+||stumbleguys.com^
+||subway-surfers.com^
+||surviv.io^
+||temple-run.org^
+||ubg100.com^
+||ubg235.com^
+||ubg365.net^
+||ubg365.org^
+||ubg44.com^
+||ubg9.com^
+||ubg98.com^
+||venge.io^
+||vitality.games^
+||webgl3dgames.com^
+||webglgames.com^
+||wormax.io^
+||y8.com^
+||y8games.com^
+||y9-games.com^
+||y9freegames.com^
+||zombs.io^
+||zombsroyale.io^
+
+! ========================================
+! BLOQUEIO APOSTAS ONLINE (GAMBLING)
+! ========================================
+||blaze.com^
+||bet365.com^
+||betano.com^
+||pixbet.com^
+||estrelabet.com^
+||br.betano.com^
+||betfair.com^
+||sportingbet.com^
+||kto.com^
+||vai.bet^
+||esportesdasorte.com^
+||betnacional.com^
+||f12.bet^
+
+! ========================================
+! BLOQUEIO EMULADORES / ROMS / FLASH
+! ========================================
+||emulatoronline.com^
+||retrogames.cc^
+||vimm.net^
+||coolrom.com^
+||roms-download.com^
+||romsfun.com^
+||classicgamer.com^
+||flashpointarchive.org^
+||flasharch.com^
+||silvergames.com^
+||numuki.com^
+
+! ========================================
+! BLOQUEIO "UNBLOCKED" (WILDCARDS DE ALTO IMPACTO)
+! ========================================
+! CUIDADO: Essas regras são poderosas. Monitore os logs.
+||unblocked-games.s3.amazonaws.com^
+||unblockedgames66.com^
+||unblockedgames67.com^
+||unblockedgames77play.com^
+||unblockedgamesworld.com^
+||slopeunblocked.co^
+||run3unblocked.com^
+||sitesunblocked.com^
+||schoolgamesunblocked.com^
+||educationalgamesunblocked.com^
+||coolmathgamesunblocked.com^
+||*.io^
+||*.games^
+||*.play^
+||*.fun^
+||*.xyz^
+||*.gq^
+||*.site^
+||*.cloud^
+||*.unblocked^
+||*unblocked*.com^
+
+! ========================================
+! BLOQUEIO VPN / BYPASS / PROXY
+! ========================================
+||protonvpn.com^
+||nordvpn.com^
+||psiphon3.com^
+||warp.cloudflareclient.com^
+||psiphon.ca^
+||vpnapi.io^
+||warp.plus^
+||cloudflareclient.com^
+||cloudflareclient.net^
+||cloudflarewarp.com^
+||warp.cloudflare.com^
+||api.protonvpn.ch^
+||opera.com^$important
+||opera-mini.net^$important
+||secure-proxy.opera.com^
+||turbovpn.co^
+||vpnfast.co^
+||expressvpn.com^
+||betternet.co^
+||supervpn.co^
+||fastvpn.com^
+
+! ========================================
+! BLOQUEIO DE FUGA DE DNS CRIPTOGRAFADO (DoH)
+! ========================================
+||cloudflare-dns.com^
+||mozilla.cloudflare-dns.com^
+||security.cloudflare-dns.com^
+||family.cloudflare-dns.com^
+||doh.opendns.com^
+||dns.google^
+||dns.quad9.net^
+||dns.adguard.com^
+||dns-family.adguard.com^
+||dns.nextdns.io^
+||dns.comss.one^
+||doh.cleanbrowsing.org^
+||doh.libredns.gr^
+||dns.aa.net.uk^
+||dns.digitale-gesellschaft.ch^
+||doh.powerdns.org^
+||doh.ffmuc.net^
+||doh.tiarap.org^
+||dns10.quad9.net^
+||dns11.quad9.net^
+||dns12.quad9.net^
+||doh.sb^
+||resolver4.opendns.com^
+||resolver1.opendns.com^
+||resolver2.opendns.com^
+||resolver3.opendns.com^
+
+! ========================================
+! BLOQUEIO IPTV / STREAM PIRATA (Sintaxe Corrigida)
+! ========================================
+||xtream.codes^
+||smartiptv.com^
+||futemax.to^
+||futemax.com^
+||futemax.live^
+||futemax.gg^
+||superflix.to^
+||superflix.com^
+||superflix.net^
+||topflix.net^
+||topflix.com^
+||topflix.tv^
+||redecanais.to^
+||redecanais.com^
+||redecanais.net^
