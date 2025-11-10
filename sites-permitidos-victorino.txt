@@ -59,6 +59,15 @@
 @@||cdo-lms-bff.arcotech.io^$important
 @@||bam.nr-data.net^$important
 @@||cdn.mouseflow.com^$important
+@@||api.sasdigital.com.br^$important
+@@||a.nel.cloudflare.com^$important
+@@||app.portalsaseducacao.com.br/eureka/worlds^$important
+@@||digital-content-bff.sasdigital.com.br^$important
+@@||cdnjs.cloudflare.com^$important
+@@||embed.typeform.com^$important
+@@||assignment-backend.sasdigital.com.br^$important
+@@||xpaywalletcdn-prod.azureedge.net^$important
+@@||diario-turma.arcotech.io^$important
 
 ! Microsoft 365 (Teams, OneDrive, Office Online)
 @@||login.microsoftonline.com^
