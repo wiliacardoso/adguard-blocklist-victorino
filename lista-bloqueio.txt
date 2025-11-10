@@ -31,7 +31,7 @@
 
 ! ========================================
 
-! BLOQUEIO JOGOS & PLATAFORMAS (Deduplicado e Unificado)
+! BLOQUEIO JOGOS & PLATAFORMAS
 
 ! ========================================
 ||1001jogos.com.br^
