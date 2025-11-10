@@ -214,6 +214,38 @@
 ||unblockedgamesworld.com^
 ||y8.org^
 ||zyngagames.com^
+|crazygames.dev^
+||crazygames24.com^
+||crazygames247.com^
+||ubgfun.com^
+||ubg88.com^
+||ubg.fun^
+||ubg.games^
+||ubgplay.com^
+||ubglocker.com^
+||ubg247.com^
+||ubgstation.com^
+||ubgbox.com^
+||playbite.com^
+||playh5.com^
+||playschoolgames.xyz^
+||playsgames.net^
+||retrogamesonline.io^
+||g55.co^
+||g55games.com^
+||gamesyouloved.com^
+||ducklings.io^
+||narwhale.io^
+||sketchful.io^
+||starve.io^
+||moomoo.io^
+||wings.io^
+||warbrokers.io^
+||vu3.io^
+||snowball.io^
+||snowrider3d.com^
+||1v1battle.com^
+||panelattack.com^
 
 ! ========================================
 
@@ -505,9 +537,15 @@
 ||googleapis.com^
 ||gstatic.com^
 ||akamaihd.net^
-
-
-! VARIAÇÕES COMUNS / PREFIXOS (geralmente cobertos por ||domínio^ mas listadas para redundância)
+||assets.poki.com^
+||img.poki.com^
+||games.crazygames.com^
+||uploads.crazygames.com^
+||files.crazygames.com^
+||staticcrazygames.com^
+||cdn.silvergames.com^
+||cdnfriv.com^
+||cdnfriv2.com^
 ||cdn.poki.com^
 ||static.poki.com^
 ||assets.poki.com^
