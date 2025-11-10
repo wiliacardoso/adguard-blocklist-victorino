@@ -37,6 +37,7 @@
 ||1001jogos.com.br^
 ||1v1.lol^
 ||addictinggames.com^
+||agame.com^
 ||agar.io^
 ||arcademy.games^
 ||armorgames.com^
@@ -45,6 +46,7 @@
 ||bestcrazygames.com^
 ||bigfishgames.com^
 ||blockman.org^
+||bonk.io^
 ||buildroyale.io^
 ||classic.minecraft.net^
 ||clickjogos.com.br^
@@ -68,16 +70,21 @@
 ||friv2online.com^
 ||frivjogosonline.com.br^
 ||frivplus.com^
+||funbrain.com^
 ||gamaverse.com^
 ||gamebanana.com^
 ||gameflare.com^
 ||gamehouse.com^
 ||gamejolt.com^
 ||gamer.org^
+||gamesgames.com^
 ||gartic.io^
+||garticphone.com^
+||geoguessr.com^
 ||gog.com^
 ||happywheels.best^
 ||hole.io^
+||hoodamath.com^
 ||html5games.com^
 ||htmlgames.com^
 ||iogames.fun^
@@ -99,18 +106,22 @@
 ||kidzsearch.com^
 ||kiz10.com^
 ||kizi.com^
-||konkregate.com^
+||kongregate.com^
 ||krunker.io^
 ||lagged.com^
 ||leagueoflegends.com^
 ||minecraft.net^
 ||minecraftforfree.net^
+||miniclip.com^
 ||minijogos.com.br^
+||minijuegos.com^
+||miniplay.com^
 ||mojang.com^
 ||monstercrawler.com^
 ||mope.io^
 ||mousebreaker.com^
 ||newgrounds.com^
+||nytimes.com/games/^
 ||onlinegames.io^
 ||paper.io^
 ||pbskids.org^
@@ -119,12 +130,14 @@
 ||plays.org^
 ||plonga.com^
 ||pog.com^
+||pogo.com^
 ||poki.com^
 ||poki.cz^
 ||poki.games^
 ||poki.gg^
 ||poki.io^
 ||pokiapp.com^
+||primarygames.com^
 ||rbxcdn.com^
 ||riotgames.com^
 ||roblox.com^
@@ -133,8 +146,10 @@
 ||roproxy.com^
 ||shellshock.io^
 ||sitesnotblocked.com^
+||skribbl.io^
 ||slope-game.com^
 ||slither.io^
+||smashkarts.io^
 ||soccer-random.com^
 ||steamcommunity.com^
 ||steampowered.com^
@@ -144,6 +159,7 @@
 ||subway-surfers.com^
 ||surviv.io^
 ||temple-run.org^
+||twoplayergames.org^
 ||ubg100.com^
 ||ubg235.com^
 ||ubg365.net^
@@ -162,7 +178,6 @@
 ||y9freegames.com^
 ||zombs.io^
 ||zombsroyale.io^
-
 
 ! ========================================
 
