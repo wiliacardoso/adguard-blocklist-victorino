@@ -292,7 +292,6 @@
 ! ========================================
 
 ! CUIDADO: Essas regras são poderosas. Monitore os logs.
-||unblocked-games.s3.amazonaws.com^
 ||unblockedgames66.com^
 ||unblockedgames67.com^
 ||unblockedgames77play.com^
@@ -301,7 +300,6 @@
 ||run3unblocked.com^
 ||sitesunblocked.com^
 ||schoolgamesunblocked.com^
-||educationalgamesunblocked.com^
 ||coolmathgamesunblocked.com^
 ||*.games^
 ||*.play^
