@@ -303,7 +303,6 @@
 ||schoolgamesunblocked.com^
 ||educationalgamesunblocked.com^
 ||coolmathgamesunblocked.com^
-||*.io^
 ||*.games^
 ||*.play^
 ||*.fun^
