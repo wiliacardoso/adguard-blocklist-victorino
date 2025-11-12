@@ -342,6 +342,40 @@
 ||jogosemmidia.com^
 ||jogosdomania.com^
 
+||crazygames.dev^
+||crazygames24.com^
+||crazygames247.com^
+||ubgfun.com^
+||ubg88.com^
+||ubg.fun^
+||ubg.games^
+||ubgplay.com^
+||ubglocker.com^
+||ubg247.com^
+||ubgstation.com^
+||ubgbox.com^
+||playbite.com^
+||playh5.com^
+||playschoolgames.xyz^
+||playsgames.net^
+||retrogamesonline.io^
+||g55.co^
+||g55games.com^
+||gamesyouloved.com^
+
+||ducklings.io^
+||narwhale.io^
+||sketchful.io^
+||starve.io^
+||moomoo.io^
+||wings.io^
+||warbrokers.io^
+||vu3.io^
+||snowball.io^
+||snowrider3d.com^
+||1v1battle.com^
+||panelattack.com^
+
 
 
 ! ========================================
@@ -579,6 +613,16 @@
 ||static.crazygames.com^
 ||cdn.y8.com^
 ||static.y8cdn.com^
+||assets.poki.com^
+||img.poki.com^
+||games.crazygames.com^
+||uploads.crazygames.com^
+||files.crazygames.com^
+||staticcrazygames.com^
+||cdn.silvergames.com^
+||cdnfriv.com^
+||cdnfriv2.com^
+
 
 ! SITES DE PLATAFORMAS SOCIAIS/VIDEO COM RENDERIZAÇÃO DE JOGOS (se quiser bloquear embed/streams)
 ||twitchcdn.net^
