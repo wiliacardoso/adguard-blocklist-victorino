@@ -27,6 +27,36 @@
 ||tumblr.com^
 ||twitch.tv^
 
+# ========================================
+# BLOQUEIO DE JOGOS ONLINE (Regex)
+# Versão: sem CDNs / otimizada para ambiente escolar
+# ========================================
+
+/.*(jogos|jogosonline|jogosgratis|jogos360|clickjogos|minijogos|miniplay|minijuegos|miniclip|miniclipgames|miniclipbr|miniplay|miniplaygames|minijogosbr|miniplaybr|minijuegosbr|minijogosonline|miniplayonline|jogosinfantis|jogosdemeninas|jogosdivertidos|jogosparacelular|jogosdo|jogosdahoje|jogos21|brincarjogos)\..*/$domain=~escolagames.com.br
+
+/.*(games|gameplay|playgames|playfun|playhub|playpink|playbite|playh5|playschool|playsorg|playsgames|playretrogames|playit|plays\.org|play-games|play-games\.com|playschoolgames|playgamesonline|playschoolonline|playfun|plays\.io)\..*/$domain=~escolagames.com.br
+
+/.*(friv|friv2|frivplus|frivjogos|frivonline|frivclassic|friv2013|friv2018|friv2023)\..*/$domain=~escolagames.com.br
+
+/.*(poki|pokigames|pokicdn|pokiplay|pokifree|pokiio|pokiapp|pokigg|poki\.cz|pokigames)\..*/$domain=~escolagames.com.br
+
+/.*(crazygames|crazygame|crazygames24|crazygames247|crazygamesdev|crazygamesorg|crazygamesfun|crazygamesonline)\..*/$domain=~escolagames.com.br
+
+/.*(y8|y8games|y9|y9games|y9freegames|y8online|y8fun|y8org)\..*/$domain=~escolagames.com.br
+
+/.*(kizi|kiz10|kidzsearch|coolmathgames|coolmath|funbrain|hoodamath|mathgames)\..*/$domain=~escolagames.com.br
+
+/.*(iogames|iogame|iog|io-games|iogamesio|iogamesfun|iogameslive|iogamesspace|iogamestop|iogameszone|iogamesgg|iogamespro|iogamesorg|iogamesdev|iogamesonline)\..*/$domain=~escolagames.com.br
+
+/.*(agar|slither|mope|wormax|paperio|holeio|diepio|zombs|zombsroyale|krunker|shellshock|evio|surviv|bonk|starve|wings|ducklings|snowrider|slopegame|soccer-random|basketbros|basketrandom|warbrokers|temple-run|minicraft|minecraftforfree|minecraftfree|minemania|eaglercraft)\..*/$domain=~escolagames.com.br
+
+/.*(roblox|robloxcdn|rolimons|roproxy|riotgames|leagueoflegends|epicgames|fortnite|fortnitegg|freefire|freefiremobile|stumbleguys|bigfishgames|blockman|gameloft|riotcdn|riotcdnstore)\..*/$domain=~escolagames.com.br
+
+/.*(arcade|armorgames|notdoppler|pacogames|shockwave|addictinggames|bgames|tbg95|spilgames|silvergames|gameflare|gamehouse|gamejolt|gamebanana|gametop|gameslol|gamepix|gamedistribution|gamemonetize|gamearter|gameforge|gameszap|gamesvault|gamesyouloved|gamesumo|primarygames|retrogamesonline|classicreload|retrogamescc|classicgamer|mmoplay|playhub|playschoolgames|playsgamesnet|freeskillgames|webgamesonline|webgamesio|playfun|hotgames|jogoscool|jogosemmidia|jogosdomania)\..*/$domain=~escolagames.com.br
+
+/.*(unblockedgames|unblocked|funblocked|schoolgamesunblocked|coolmathgamesunblocked|slopeunblocked|unblockedgame|unblockedgameworld|unblockedwtf|unblockedpod|unblockeddev|sitesunblocked)\..*/$domain=~escolagames.com.br
+
+
 ! ========================================
 
 
