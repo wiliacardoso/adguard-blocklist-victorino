@@ -341,7 +341,6 @@
 ||jogoscool.com^
 ||jogosemmidia.com^
 ||jogosdomania.com^
-
 ||crazygames.dev^
 ||crazygames24.com^
 ||crazygames247.com^
@@ -362,7 +361,6 @@
 ||g55.co^
 ||g55games.com^
 ||gamesyouloved.com^
-
 ||ducklings.io^
 ||narwhale.io^
 ||sketchful.io^
@@ -489,6 +487,18 @@
 ||betternet.co^
 ||supervpn.co^
 ||fastvpn.com^
+||holyubofficial.net^
+||holyubofficial.com^
+||rdgames.space^
+||ggzy.io^
+||zygarde.net^
+||incognito.fun^
+||incog.dev^
+||uvrproxy.com^
+||uvac.cc^
+||titaniumnetwork.org^
+||interstellarproxy.io^
+||interstellarnetwork.cc^
 ||holyubofficial.net^
 ||holyubofficial.com^
 ||rdgames.space^
