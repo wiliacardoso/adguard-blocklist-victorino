@@ -57,6 +57,7 @@
 /.*(unblockedgames|unblocked|funblocked|schoolgamesunblocked|coolmathgamesunblocked|slopeunblocked|unblockedgame|unblockedgameworld|unblockedwtf|unblockedpod|unblockeddev|sitesunblocked)\..*/$domain=~escolagames.com.br
 
 /defesa-medieval/
+/.*defesa-medieval/
 ! ========================================
 
 
