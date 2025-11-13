@@ -644,6 +644,9 @@
 ||cdnfriv.com^
 ||cdnfriv2.com^
 ||cdn.freegames.com^
+||cdn2.escolagames.com.br^
+||midia.escolagames.com.br^
+||ads.escolagames.com.br^
 
 
 ! SITES DE PLATAFORMAS SOCIAIS/VIDEO COM RENDERIZAÇÃO DE JOGOS (se quiser bloquear embed/streams)
