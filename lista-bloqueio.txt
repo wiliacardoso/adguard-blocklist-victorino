@@ -2,8 +2,9 @@
 # Uso: AdGuard Home / DNS Sinkhole
 # Atualizado em 11/11/2025
 
-||escolagames.com.br/jogos-divertidos^
-! /escolagames.com.br/jogos-divertidos.*/$important
+! ||escolagames.com.br/jogos-divertidos^
+/escolagames.com.br/jogos-divertidos.*/$important
+/escolagames.com.br/diversao/.*/$important
 
 ! ========================================
 ! BLOQUEIO REDES SOCIAIS
