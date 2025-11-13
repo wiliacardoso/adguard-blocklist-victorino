@@ -38,7 +38,7 @@
 # Versão: sem CDNs / otimizada para ambiente escolar
 # ========================================
 
-/.*(jogos|jogosonline|jogosgratis|jogos360|clickjogos|minijogos|miniplay|minijuegos|miniclip|miniclipgames|miniclipbr|miniplay|miniplaygames|minijogosbr|miniplaybr|minijuegosbr|minijogosonline|miniplayonline|jogosinfantis|jogosdemeninas|jogosdivertidos|jogosparacelular|jogosdo|jogosdahoje|jogos21|brincarjogos)\..*/$domain=~escolagames.com.br
+/.* (jogos|jogosonline|jogosgratis|jogos360|clickjogos|minijogos|miniplay|minijuegos|miniclip|miniclipgames|miniclipbr|miniplay|miniplaygames|minijogosbr|miniplaybr|minijuegosbr|minijogosonline|miniplayonline|jogosinfantis|jogosdemeninas|jogosdivertidos|jogosparacelular|jogosdo|jogosdahoje|jogos21|brincarjogos)\..*/$domain=~escolagames.com.br
 
 /.*(games|gameplay|playgames|playfun|playhub|playpink|playbite|playh5|playschool|playsorg|playsgames|playretrogames|playit|plays\.org|play-games|play-games\.com|playschoolgames|playgamesonline|playschoolonline|playfun|plays\.io)\..*/$domain=~escolagames.com.br
 
@@ -643,6 +643,7 @@
 ||cdn.silvergames.com^
 ||cdnfriv.com^
 ||cdnfriv2.com^
+||cdn.freegames.com^
 
 
 ! SITES DE PLATAFORMAS SOCIAIS/VIDEO COM RENDERIZAÇÃO DE JOGOS (se quiser bloquear embed/streams)
