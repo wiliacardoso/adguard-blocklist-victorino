@@ -1124,7 +1124,26 @@
 ||jogos10.com.br/*/games*
 ||jogos10.com.br/*/online*
 ||jogos10.com.br/*/unity*
-
+||multjogos.com^
+||www.multjogos.com^
+||cdn.multjogos.com^
+||games.multjogos.com^
+||media.multjogos.com^
+||static.multjogos.com^
+||assets.multjogos.com^
+||img.multjogos.com^
+||files.multjogos.com^
+||api.multjogos.com^
+||play.multjogos.com^
+||multjogos.com/jogos/^
+||multjogos.com/categoria/^
+||multjogos.com/tags/^
+||multjogos.com/html5/^
+||multjogos.com/*/game*
+||multjogos.com/*/play*
+||multjogos.com/*/games*
+||multjogos.com/*/online*
+||multjogos.com/*/unity*
 
 
 ! ========================================
