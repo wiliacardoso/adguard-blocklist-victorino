@@ -3,7 +3,7 @@
 # Atualizado em 11/11/2025
 
 ||escolagames.com.br*^
-/escolagames.com.*/$important
+/escolagames.com.br/jogos-divertidos.*/$important
 
 ! ========================================
 ! BLOQUEIO REDES SOCIAIS
