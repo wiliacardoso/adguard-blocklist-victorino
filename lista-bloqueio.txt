@@ -7,6 +7,7 @@
 ||escolagames.com.br/diversao^/$important
 /escolagames.com.br/jogos-divertidos.*/$important
 /escolagames.com.br/diversao/.*/$important
+/tpc.googlesyndication.com.*/
 
 ! ========================================
 ! BLOQUEIO REDES SOCIAIS
