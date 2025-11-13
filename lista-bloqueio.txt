@@ -61,6 +61,7 @@
 
 /defesa-medieval/
 /.*defesa-medieval/
+/.*among-us/
 ! ========================================
 
 
@@ -74,6 +75,7 @@
 ||addictinggames.com^
 ||agame.com^
 ||agar.io^
+||comodonerd.com.br^
 ||arcademy.games^
 ||armorgames.com^
 ||basketbros.io^
