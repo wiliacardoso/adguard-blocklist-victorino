@@ -62,6 +62,7 @@
 /defesa-medieval/
 /.*defesa-medieval/
 /.*among-us/
+/.*freegames.com.*/
 ! ========================================
 
 
@@ -101,6 +102,7 @@
 ||fortnite.com^
 ||fortnite.gg^
 ||freefiremobile.com^
+||freegames.com^
 ||friv.com^
 ||friv-2013.com^
 ||friv-2018.com^
