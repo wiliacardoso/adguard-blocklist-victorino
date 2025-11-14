@@ -3,8 +3,8 @@
 # Lista Rígida Escolar - Bloqueio Total 
 # Uso: AdGuard Home / DNS Sinkhole
 # Atualizado em 11/11/2025
-||escolagames.com.br/jogos-divertidos^/$important
-||escolagames.com.br/diversao^/$important
+! ||escolagames.com.br/jogos-divertidos^/$important
+! ||escolagames.com.br/diversao^/$important
 /escolagames.com.br/jogos-divertidos.*/$important
 /escolagames.com.br/diversao/.*/$important
 /tpc.googlesyndication.com.*/
