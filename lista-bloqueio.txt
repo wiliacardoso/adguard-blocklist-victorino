@@ -13,9 +13,9 @@
 ||tiktok.com^
 ||tiktokcdn.com^
 ||snapchat.com^
-||whatsapp.com^
-||web.whatsapp.com^
-||wa.me^
+! ||whatsapp.com^
+! ||web.whatsapp.com^
+! ||wa.me^
 ||twitter.com^
 ||x.com^
 ||twimg.com^
@@ -1511,7 +1511,7 @@
 ||static.crazygames.com^
 ||static.y8cdn.com^
 ||cdn.freegames.com^
-||cdn2.escolagames.com.br^
+! ||cdn2.escolagames.com.br^
 ||midia.escolagames.com.br^
 ||ads.escolagames.com.br^
 ||cdn.neagame.com^
