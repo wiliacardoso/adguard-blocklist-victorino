@@ -13,9 +13,9 @@
 ||tiktok.com^
 ||tiktokcdn.com^
 ||snapchat.com^
-! ||whatsapp.com^
-! ||web.whatsapp.com^
-! ||wa.me^
+||whatsapp.com^
+||web.whatsapp.com^
+||wa.me^
 ||twitter.com^
 ||x.com^
 ||twimg.com^
