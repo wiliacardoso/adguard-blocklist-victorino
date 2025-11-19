@@ -88,6 +88,11 @@
 ||cdn.geometry-game.io^
 ||static.geometry-game.io^
 ||assets.geometry-game.io^
+||geometry-lite.io^
+||www.geometry-lite.io^
+||cdn.geometry-lite.io^
+||static.geometry-lite.io^
+||assets.geometry-lite.io^
 ||gog.com^
 ||happywheels.best^
 ||hole.io^
