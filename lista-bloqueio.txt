@@ -83,6 +83,7 @@
 ||gartic.io^
 ||garticphone.com^
 ||geoguessr.com^
+||geometry-game.io^
 ||gog.com^
 ||happywheels.best^
 ||hole.io^
