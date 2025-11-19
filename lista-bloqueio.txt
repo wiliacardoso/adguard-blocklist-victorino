@@ -34,6 +34,11 @@
 
 ! ========================================
 ||1001jogos.com.br^
+||1games.io^
+||www.1games.io^
+||cdn.1games.io^
+||static.1games.io^
+||assets.1games.io^
 ||1v1.lol^
 ||addictinggames.com^
 ||agame.com^
