@@ -84,6 +84,10 @@
 ||garticphone.com^
 ||geoguessr.com^
 ||geometry-game.io^
+||www.geometry-game.io^
+||cdn.geometry-game.io^
+||static.geometry-game.io^
+||assets.geometry-game.io^
 ||gog.com^
 ||happywheels.best^
 ||hole.io^
