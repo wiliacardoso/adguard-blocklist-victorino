@@ -43,6 +43,12 @@
 ||addictinggames.com^
 ||agame.com^
 ||agar.io^
+||aptoide.com^
+||en.aptoide.com/
+||www.aptoide.com^
+||cdn.aptoide.com^
+||static.aptoide.com^
+||assets.aptoide.com^
 ||comodonerd.com.br^
 ||arcademy.games^
 ||armorgames.com^
