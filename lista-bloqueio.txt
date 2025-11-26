@@ -35,6 +35,8 @@
 ! ========================================
 ||1001jogos.com.br^
 ||skribbl.io^
+||g.deev.is^
+||*.g.deev.is^
 ||www.skribbl.io^
 ||cdn.skribbl.io^
 ||static.skribbl.io^
