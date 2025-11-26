@@ -37,6 +37,8 @@
 ||skribbl.io^
 ||g.deev.is^
 ||*.g.deev.is^
+||now.gg^
+||*.now.gg^
 ||www.skribbl.io^
 ||cdn.skribbl.io^
 ||static.skribbl.io^
