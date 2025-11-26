@@ -34,6 +34,16 @@
 
 ! ========================================
 ||1001jogos.com.br^
+||skribbl.io^
+||www.skribbl.io^
+||cdn.skribbl.io^
+||static.skribbl.io^
+||media.skribbl.io^
+||assets.skribbl.io^
+||socket.skribbl.io^
+||api.skribbl.io^
+||img.skribbl.io^
+||*.skribbl.io^
 ||tlauncher.org^
 ||*.tlauncher.org^
 ||*.fastrepo.org^
