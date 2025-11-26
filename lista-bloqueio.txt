@@ -35,6 +35,19 @@
 ! ========================================
 ||1001jogos.com.br^
 ||tlauncher.org^
+||*.tlauncher.org^
+||*.fastrepo.org^
+||tlauncher.org^
+||www.tlauncher.org^
+||files.tlauncher.org^
+||static.tlauncher.org^
+||cdn.tlauncher.org^
+||update.tlauncher.org^
+||news.tlauncher.org^
+||api.tlauncher.org^
+||fastrepo.org^
+||www.fastrepo.org^
+||cdn.fastrepo.org^
 ||1games.io^
 ||www.1games.io^
 ||cdn.1games.io^
