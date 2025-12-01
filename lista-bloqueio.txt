@@ -1442,7 +1442,6 @@
 ||fastlylb.net^
 ||files.crazygames.com^
 ||games.crazygames.com^
-||googleusercontent.com^
 ||stackpath.bootstrapcdn.com^
 ||stackpathcdn.com^
 ||static.crazygames.com^
