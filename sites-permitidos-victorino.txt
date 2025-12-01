@@ -23,6 +23,18 @@
 @@||chat.google.com^
 @@||admin.google.com^
 
+# Lista de permissão para domínios Googleusercontent
+@@||lh1.googleusercontent.com^
+@@||lh2.googleusercontent.com^
+@@||lh3.googleusercontent.com^
+@@||lh4.googleusercontent.com^
+@@||proxy.googleusercontent.com^
+@@||video.googleusercontent.com^
+@@||doc-0-0-docs.googleusercontent.com^
+@@||doc-0-0-drive.googleusercontent.com^
+@@||usercontent.googleapis.com^
+@@||storage.googleapis.com^
+
 ! ========================================
 ! LIBERAÇÕES ESSENCIAIS
 ! ========================================
