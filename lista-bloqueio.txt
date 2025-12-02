@@ -30,6 +30,10 @@
 ||webcompanion.com/en/install.php^
 ||partner.webcompanion.com^
 
+# Bloqueio do Pixelmon Brasil Oficial
+||pixelmonbrasiloficial.com.br^
+||www.pixelmonbrasiloficial.com.br^
+
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
 ||*.fastrepo.org^
 ||*.g.deev.is^
