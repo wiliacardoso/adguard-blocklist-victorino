@@ -225,6 +225,7 @@
 ||auth.roblox.com^
 ||avatar.roblox.com^
 ||babylonjs.com^
+||babygames.com/^
 ||badges.roblox.com^
 ||basketbros.io^
 ||basketrandom.com^
