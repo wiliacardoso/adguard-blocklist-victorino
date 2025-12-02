@@ -93,6 +93,7 @@
 ||apexlegendsmodapk.net^
 ||apexlegendsnews.com^
 ||apexlegendsstatus.com^
+||apponbest.com^
 ||api.brawlhalla.com^
 ||api.brawlstars.com^
 ||api.clickjogos.com.br^
