@@ -24,6 +24,12 @@
 ||whatsapp.com^
 ||x.com^
 
+# Bloqueio do WebCompanion
+||webcompanion.com^
+||www.webcompanion.com^
+||webcompanion.com/en/install.php^
+||partner.webcompanion.com^
+
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
 ||*.fastrepo.org^
 ||*.g.deev.is^
