@@ -389,7 +389,6 @@
 ||education.minecraft.net^
 ||en.aptoide.com/
 ||epicgames.com^
-||escolagames.com.br^
 ||especiais.g1.globo.com^
 ||esports.rocketleague.com^
 ||ev.io^
@@ -1460,11 +1459,6 @@
 ||static.y8cdn.com^
 ||staticcrazygames.com^
 ||uploads.crazygames.com^
-
-! ===== ||cdn2.escolagames.com.br^ =====
-||ads.escolagames.com.br^
-||cdn.neagame.com^
-||midia.escolagames.com.br^
 
 ! ===== SITES DE PLATAFORMAS SOCIAIS/VIDEO COM RENDERIZAÇÃO DE JOGOS (se quiser bloquear embed/streams) =====
 ||twitchcdn.net^
