@@ -277,6 +277,7 @@
 ||buildersfans.com^
 ||buildroyale.io^
 ||cartoonnetwork.com^
+||cartoongames.io^
 ||catalog.roblox.com^
 ||cdn.1001jogos.com.br^
 ||cdn.1games.io^
