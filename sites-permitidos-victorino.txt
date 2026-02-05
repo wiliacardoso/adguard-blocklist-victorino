@@ -10,6 +10,9 @@
 ! Essencial para login, e-mail, documentos e videochamadas.
 ! ---------------------------------------------------------------------
 
+! ClassApp
+@@||classapp.co/auth^
+
 ! Google Workspace for Education (Classroom, Meet, Drive, Docs)
 @@||accounts.google.com^
 @@||classroom.google.com^
