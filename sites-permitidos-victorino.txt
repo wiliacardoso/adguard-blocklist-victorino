@@ -83,6 +83,7 @@
 @@||assignment-backend.sasdigital.com.br^$important
 @@||xpaywalletcdn-prod.azureedge.net^$important
 @@||diario-turma.arcotech.io^$important
+@@||wordwall.net/pt^
 
 ! Microsoft 365 (Teams, OneDrive, Office Online)
 @@||login.microsoftonline.com^
