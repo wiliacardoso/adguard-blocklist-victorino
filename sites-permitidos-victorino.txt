@@ -10,8 +10,21 @@
 ! Essencial para login, e-mail, documentos e videochamadas.
 ! ---------------------------------------------------------------------
 
-! ClassApp
+! Serviços do Colégio
+
+@@||app.portalsaseducacao.com.br/^$important
+@@||bing.com^$important
+@@||cambridgeone.org/^$important
+@@||classapp.co/^$important
 @@||classapp.co/auth^
+@@||colegiovictorino.com.br/^$important
+@@||colegiovictorino.com.br/^$important
+@@||colegiovictorino.qmagico.com.br/^$important
+@@||english-dashboard.pearson.com/^$important
+@@||opm-site-content.s3.sa-east-1.amazonaws.com^$important
+@@||portal.escoladainteligencia.com.br/^$important
+@@||www.anhanguera.com^$important
+
 
 ! Google Workspace for Education (Classroom, Meet, Drive, Docs)
 @@||accounts.google.com^
