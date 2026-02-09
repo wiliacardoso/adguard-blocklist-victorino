@@ -35,6 +35,20 @@
 ||www.pixelmonbrasiloficial.com.br^
 
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
+
+||ggmax.com.br^
+||www.ggmax.com.br^
+||cdn.ggmax.com.br^
+||api.ggmax.com.br^
+||server.ggmax.com.br^
+||lab.ggmax.com.br^
+||staging.ggmax.com.br^
+||status.ggmax.com.br^
+||ws.ggmax.com.br^
+||test.ggmax.com.br^
+||rt.ggmax.com.br^
+||search.ggmax.com.br^
+
 ||*.fastrepo.org^
 ||*.g.deev.is^
 ||*.now.gg^
