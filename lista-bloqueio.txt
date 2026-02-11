@@ -1401,7 +1401,7 @@
 ||zygarde.net^
 
 ! ===== BLOQUEIO DE FUGA DE DNS CRIPTOGRAFADO (DoH) =====
-||cloudflare-dns.com^
+
 ||dns-family.adguard.com^
 ||dns.aa.net.uk^
 ||dns.adguard.com^
