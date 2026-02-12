@@ -36,6 +36,23 @@
 @@||portal-bff.portalsaseducacao.com.br^$important
 @@||googletagmanager.com^$important
 
+! ClassApp
+@@||api.hubspot.com^$important
+@@||assets.classapp.co^$important
+@@||classapp.co^$important
+@@||cta-service-cms2.hubspot.com^$important
+@@||d91xur4cwmxrf.cloudfront.net^$important
+@@||driwojsy9347i.cloudfront.net^$important
+@@||js.hsadspixel.net^$important
+@@||js.hs-analytics.net^$important
+@@||js.hs-banner.com^$important
+@@||js.hubspot.com^$important
+@@||js.usemessages.com^$important
+@@||perf-na1.hsforms.com^$important
+@@||sentry.classapp.com.br^$important
+@@||static.hotjar.com^$important
+@@||unleash-proxy.classapp.co^$important
+@@||www.googletagmanager.com^$important
 
 
 ! Google Workspace for Education (Classroom, Meet, Drive, Docs)
