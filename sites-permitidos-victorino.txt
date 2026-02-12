@@ -24,6 +24,9 @@
 @@||opm-site-content.s3.sa-east-1.amazonaws.com^$important
 @@||portal.escoladainteligencia.com.br/^$important
 @@||www.anhanguera.com^$important
+@@||workspace.google.com/intl/pt-BR/gmail/^$important
+@@||app.portalsaseducacao.com.br/entrar/^$important
+@@||accounts.google.com/^$important
 
 
 ! Google Workspace for Education (Classroom, Meet, Drive, Docs)
