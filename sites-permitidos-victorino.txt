@@ -15,18 +15,13 @@
 @@||app.portalsaseducacao.com.br/^$important
 @@||bing.com^$important
 @@||cambridgeone.org/^$important
-@@||classapp.co/^$important
-@@||classapp.co/auth^$important
-@@||colegiovictorino.com.br/^$important
 @@||colegiovictorino.com.br/^$important
 @@||colegiovictorino.qmagico.com.br/^$important
 @@||english-dashboard.pearson.com/^$important
 @@||opm-site-content.s3.sa-east-1.amazonaws.com^$important
 @@||portal.escoladainteligencia.com.br/^$important
 @@||www.anhanguera.com^$important
-@@||workspace.google.com/intl/pt-BR/gmail/^$important
 @@||app.portalsaseducacao.com.br/entrar/^$important
-@@||accounts.google.com/^$important
 
 ! SAS
 @@||app.portalsaseducacao.com.br^$important
@@ -40,6 +35,7 @@
 @@||api.hubspot.com^$important
 @@||assets.classapp.co^$important
 @@||classapp.co^$important
+@@||classapp.co/auth^$important
 @@||cta-service-cms2.hubspot.com^$important
 @@||d91xur4cwmxrf.cloudfront.net^$important
 @@||driwojsy9347i.cloudfront.net^$important
@@ -67,6 +63,8 @@
 @@||mail.google.com^
 @@||chat.google.com^
 @@||admin.google.com^
+@@||workspace.google.com/intl/pt-BR/gmail/^$important
+@@||accounts.google.com/^$important
 
 # Lista de permissão para domínios Googleusercontent
 @@||lh1.googleusercontent.com^
@@ -98,7 +96,6 @@
 @@||cdn-storage.arcotech.io^$important
 @@||cdo-lms-bff.arcotech.io^$important
 @@||cdo-lms-web-prd.arcotech.io^$important
-@@||classapp.co^
 @@||clients.google.com^
 @@||diario-turma.arcotech.io^$important
 @@||digital-content-bff.sasdigital.com.br^$important
