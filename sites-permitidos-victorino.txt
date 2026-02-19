@@ -10,7 +10,9 @@
 ! Essencial para login, e-mail, documentos e videochamadas.
 ! ---------------------------------------------------------------------
 
+! ---------------------------------------------------------------------
 ! Serviços do Colégio
+! ---------------------------------------------------------------------
 
 @@||app.portalsaseducacao.com.br/^$important
 @@||bing.com^$important
@@ -23,7 +25,10 @@
 @@||www.anhanguera.com^$important
 @@||app.portalsaseducacao.com.br/entrar/^$important
 
+! ---------------------------------------------------------------------
 ! SAS
+! ---------------------------------------------------------------------
+
 @@||app.portalsaseducacao.com.br^$important
 @@||bam.nr-data.net^$important
 @@||cdn.arcotech.io^$important
@@ -32,8 +37,9 @@
 @@||googletagmanager.com^$important
 @@||avl-activity-bff.arcotech.io^
 
-
+! ---------------------------------------------------------------------
 ! ClassApp
+! ---------------------------------------------------------------------
 @@||api.hubspot.com^$important
 @@||assets.classapp.co^$important
 @@||classapp.co^$important
@@ -53,7 +59,9 @@
 @@||www.googletagmanager.com^$important
 
 
+! ---------------------------------------------------------------------
 ! Google Workspace for Education (Classroom, Meet, Drive, Docs)
+! ---------------------------------------------------------------------
 @@||accounts.google.com^
 @@||classroom.google.com^
 @@||drive.google.com^
