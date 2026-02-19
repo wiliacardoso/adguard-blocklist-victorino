@@ -37,6 +37,7 @@
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
 ||geometrylitepc.io^
 ||solitaire.net^
+||doodles.google^
 ||paciencia.co^
 ||kirka.io^
 ||haxball.com^
