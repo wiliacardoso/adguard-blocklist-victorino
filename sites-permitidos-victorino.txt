@@ -13,7 +13,6 @@
 ! ---------------------------------------------------------------------
 ! Serviços do Colégio
 ! ---------------------------------------------------------------------
-
 @@||app.portalsaseducacao.com.br/^$important
 @@||bing.com^$important
 @@||cambridgeone.org/^$important
@@ -28,7 +27,6 @@
 ! ---------------------------------------------------------------------
 ! SAS
 ! ---------------------------------------------------------------------
-
 @@||app.portalsaseducacao.com.br^$important
 @@||bam.nr-data.net^$important
 @@||cdn.arcotech.io^$important
@@ -76,7 +74,9 @@
 @@||workspace.google.com/intl/pt-BR/gmail/^$important
 @@||accounts.google.com/^$important
 
+! ---------------------------------------------------------------------
 # Lista de permissão para domínios Googleusercontent
+! ---------------------------------------------------------------------
 @@||lh1.googleusercontent.com^
 @@||lh2.googleusercontent.com^
 @@||lh3.googleusercontent.com^
@@ -91,7 +91,6 @@
 ! ========================================
 ! LIBERAÇÕES ESSENCIAIS
 ! ========================================
-
 @@||a.nel.cloudflare.com^$important
 @@||api.sasdigital.com.br^$important
 @@||apis.google.com^
@@ -135,9 +134,9 @@
 @@||xpaywalletcdn-prod.azureedge.net^$important
 @@||youtube.com^$important
 
-
+! ---------------------------------------------------------------------
 ! Microsoft 365 (Teams, OneDrive, Office Online)
-
+! ---------------------------------------------------------------------
 @@||forms.office.com^
 @@||graph.microsoft.com^
 @@||login.live.com^
@@ -176,7 +175,9 @@
 @@||wikimedia.org^
 @@||ted.com^
 
+! ---------------------------------------------------------------------
 ! LMS Populares
+! ---------------------------------------------------------------------
 @@||canvas.instructure.com^
 @@||moodle.org^
 @@||moodle.com^
@@ -215,9 +216,8 @@
 
 ! ---------------------------------------------------------------------
 ! Plataformas Nacionais (Brasil)
-! ---------------------------------------------------------------------
-
 ! MEC e Governo
+! ---------------------------------------------------------------------
 @@||mec.gov.br^
 @@||gov.br^
 @@||inep.gov.br^
@@ -229,7 +229,6 @@
 ! ---------------------------------------------------------------------
 ! Plataformas de Preparação e Estudo
 ! ---------------------------------------------------------------------
-
 @@||descomplica.com.br^
 @@||stoodi.com.br^
 @@||geekie.com.br^
@@ -243,5 +242,4 @@
 ! ---------------------------------------------------------------------
 ! DNS permitidos
 ! ---------------------------------------------------------------------
-
 @@|cloudflare-dns.com^
