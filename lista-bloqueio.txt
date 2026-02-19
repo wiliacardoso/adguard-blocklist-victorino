@@ -1483,6 +1483,7 @@
 ||overtide.io^$important
 ||www.hahagames.com^$important
 ||api.hahagames.com^$important
+||mozilla.org^
 ||support.mozilla.org^$important
 ||addons.mozilla.org^$important
 ||addons.mozilla.org/pt-BR/firefox/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom^$
