@@ -225,3 +225,4 @@
 @@||proenem.com.br^
 @@||qmagico.com.br^
 @@||wordwall.net^
+@@||themes.cdn.wordwall.net^
