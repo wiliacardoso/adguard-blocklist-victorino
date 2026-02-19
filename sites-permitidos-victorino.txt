@@ -30,6 +30,8 @@
 @@||fonts.gstatic.com^$important
 @@||portal-bff.portalsaseducacao.com.br^$important
 @@||googletagmanager.com^$important
+@@||avl-activity-bff.arcotech.io^
+
 
 ! ClassApp
 @@||api.hubspot.com^$important
