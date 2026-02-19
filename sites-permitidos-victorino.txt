@@ -226,3 +226,4 @@
 @@||qmagico.com.br^
 @@||wordwall.net^
 @@||themes.cdn.wordwall.net^
+@@||user.cdn.wordwall.net
