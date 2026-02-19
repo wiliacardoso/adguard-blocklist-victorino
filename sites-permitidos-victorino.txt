@@ -17,6 +17,7 @@
 @@||bing.com^$important
 @@||cambridgeone.org/^$important
 @@||colegiovictorino.com.br/^$important
+@@|www.colegiovictorino.com.br^
 @@||colegiovictorino.qmagico.com.br/^$important
 @@||english-dashboard.pearson.com/^$important
 @@||opm-site-content.s3.sa-east-1.amazonaws.com^$important
