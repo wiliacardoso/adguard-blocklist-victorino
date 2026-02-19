@@ -243,3 +243,4 @@
 ! DNS permitidos
 ! ---------------------------------------------------------------------
 @@|cloudflare-dns.com^
+@@|cloudflareinsights.com^
