@@ -35,6 +35,8 @@
 @@||portal-bff.portalsaseducacao.com.br^$important
 @@||googletagmanager.com^$important
 @@||avl-activity-bff.arcotech.io^
+@@|form.typeform.com^
+@@|renderer-assets.typeform.com^
 
 ! ---------------------------------------------------------------------
 ! ClassApp
