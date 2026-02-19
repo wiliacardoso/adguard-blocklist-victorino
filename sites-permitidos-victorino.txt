@@ -245,3 +245,4 @@
 ! ---------------------------------------------------------------------
 @@|cloudflare-dns.com^
 @@|cloudflareinsights.com^
+@@|static.cloudflareinsights.com^
