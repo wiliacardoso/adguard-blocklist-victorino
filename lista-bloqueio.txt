@@ -36,6 +36,8 @@
 
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
 ||geometrylitepc.io^
+||paciencia.co^
+||kirka.io^
 ||haxball.com^
 ||zty.pe^
 ||ggmax.com.br^
