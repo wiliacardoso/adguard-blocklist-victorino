@@ -23,28 +23,65 @@
 @@||opm-site-content.s3.sa-east-1.amazonaws.com^$important
 @@||portal.escoladainteligencia.com.br/^$important
 @@||www.anhanguera.com^$important
+@@||anhanguera.com^$important
 @@||app.portalsaseducacao.com.br/entrar/^$important
 
 ! ---------------------------------------------------------------------
 ! SAS
 ! ---------------------------------------------------------------------
+@@||1175_educationalsystem_webgl.unity3d^$important
+@@||apimanager.educacross.com.br^$important
+@@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
-@@||bam.nr-data.net^$important
+@@||arclight.vimeo.com^$important
+@@||at-activity-bff.arcotech.io^$important
+@@||avl-activity-bff.arcotech.io^$important
+@@||c.go-mpulse.net^$important
 @@||cdn.arcotech.io^$important
-@@||fonts.gstatic.com^$important
-@@||portal-bff.portalsaseducacao.com.br^$important
+@@||cdn.rudderlabs.com^$important
+@@||cdn.userway.org^$important
+@@||cdnjs.cloudflare.com^$important
+@@||cdn-storage.arcotech.io^$important
+@@||cdo-lms-bff.arcotech.io^$important
+@@||cdo-manager-files-prd.ef4b7e3b3b2bccfc002039475e6d5aea.r2.cloudflarestorage.com^$important
+@@||cdp.cloud.unity3d.com^$important
+@@||config.uca.cloud.unity3d.com^$important
+@@||f.vimeocdn.com^$important
 @@||googletagmanager.com^$important
-@@||avl-activity-bff.arcotech.io^
-@@|form.typeform.com^
-@@|renderer-assets.typeform.com^
+@@||i.vimeocdn.com^$important
+@@||images.typeform.com^$important
+@@||lensflare.vimeo.com^$important
+@@||lms.portalsaseducacao.com.br^$important
+@@||onb-partner-backend.arcotech.io^$important
+@@||online.fliphtml5.com^$important
+@@||pageflips-api.sasdigital.com.br^$important
+@@||passwordsleakcheck-pa.googleapis.com^$important
+@@||platform-portal-trilhas-bff.arcotech.io^$important
+@@||player.vimeo.com^$important
+@@||portal-bff.portalsaseducacao.com.br^$important
+@@||renderer-assets.typeform.com^$important
+@@||tracking.typeform.com^$important
+@@||videoapi-sprites.vimeocdn.com^$important
+@@||vod-adaptive-ak.vimeocdn.com^$important
+@@||www.educacross.link^$important
+@@||educacross.link^$important
+@@||www.pdftron.com^$important
+@@||pdftron.com^$important
+@@||form.typeform.com^$important
+@@||renderer-assets.typeform.com^$important
+
 
 ! ---------------------------------------------------------------------
 ! ClassApp
 ! ---------------------------------------------------------------------
+@@|| assets.classapp.co^$important
+@@|| cdn.quilljs.com^$important
+@@|| unleash-proxy.classapp.co^$important
+@@|| web.classapp.com.br^$important
 @@||api.hubspot.com^$important
 @@||assets.classapp.co^$important
-@@||classapp.co^$important
 @@||classapp.co/auth^$important
+@@||classapp.co^$important
 @@||cta-service-cms2.hubspot.com^$important
 @@||d91xur4cwmxrf.cloudfront.net^$important
 @@||driwojsy9347i.cloudfront.net^$important
@@ -58,6 +95,7 @@
 @@||static.hotjar.com^$important
 @@||unleash-proxy.classapp.co^$important
 @@||www.googletagmanager.com^$important
+
 
 
 ! ---------------------------------------------------------------------
@@ -76,6 +114,15 @@
 @@||admin.google.com^
 @@||workspace.google.com/intl/pt-BR/gmail/^$important
 @@||accounts.google.com/^$important
+@@||adservice.google.com^$important
+@@||clients4.google.com^$important
+@@||content-autofill.googleapis.com^$important
+@@||oauthaccountmanager.googleapis.com^$important
+@@||safebrowsing.googleapis.com^$important
+@@||ssl.gstatic.com^$important
+@@||www.googletagmanager.com^$important
+@@||googletagmanager.com^$important
+
 
 ! ---------------------------------------------------------------------
 # Lista de permissão para domínios Googleusercontent
@@ -102,12 +149,8 @@
 @@||avl-portal-platform-frontend.arcotech.io^$important
 @@||bam.nr-data.net^$important
 @@||cambridgeone.org^
-@@||cdn.arcotech.io^$important
 @@||cdn.mouseflow.com^$important
 @@||cdnjs.cloudflare.com^$important
-@@||cdn-storage.arcotech.io^$important
-@@||cdo-lms-bff.arcotech.io^$important
-@@||cdo-lms-web-prd.arcotech.io^$important
 @@||clients.google.com^
 @@||diario-turma.arcotech.io^$important
 @@||digital-content-bff.sasdigital.com.br^$important
@@ -123,19 +166,14 @@
 @@||gstatic.com^
 @@||learn.microsoft.com^
 @@||livrosdigitais.portalsaseducacao.com.br^
-@@||marketplace.visualstudio.com^
 @@||microsoft.com^
 @@||netacad.com^
 @@||officecdn.microsoft.com^
 @@||onb-news-api-backend-prd.s3.us-east-1.amazonaws.com^$important
-@@||portalsaseducacao.com.br^
-@@||static.portalsas.com.br^
 @@||update.googleapis.com^
-@@||visualstudio.microsoft.com^
 @@||windowsupdate.com^
-@@||wordwall.net/pt^
 @@||xpaywalletcdn-prod.azureedge.net^$important
-@@||youtube.com^$important
+
 
 ! ---------------------------------------------------------------------
 ! Microsoft 365 (Teams, OneDrive, Office Online)
@@ -211,11 +249,6 @@
 @@||prezi.com^
 @@||figma.com^
 
-! ---------------------------------------------------------------------
-! Aprendizado de Idiomas
-! ---------------------------------------------------------------------
-@@||duolingo.com^
-@@||memrise.com^
 
 ! ---------------------------------------------------------------------
 ! Plataformas Nacionais (Brasil)
