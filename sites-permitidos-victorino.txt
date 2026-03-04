@@ -30,6 +30,7 @@
 ! SAS
 ! ---------------------------------------------------------------------
 @@||1175_educationalsystem_webgl.unity3d^$important
+@@||latex.portalsaseducacao.com.br^$important
 @@||apimanager.educacross.com.br^$important
 @@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
