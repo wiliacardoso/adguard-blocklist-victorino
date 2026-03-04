@@ -33,6 +33,7 @@
 @@||latex.portalsaseducacao.com.br^$important
 @@||storage.portalsaseducacao.com.br^important
 @@||apimanager.educacross.com.br^$important
+@@||font.typeform.com^important
 @@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
 @@||arclight.vimeo.com^$important
