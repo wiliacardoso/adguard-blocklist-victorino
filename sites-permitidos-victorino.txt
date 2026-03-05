@@ -11,7 +11,7 @@
 ! ---------------------------------------------------------------------
 
 ! ---------------------------------------------------------------------
-! Serviços do Colégio
+! Serviços do Colégio e Anhanguera
 ! ---------------------------------------------------------------------
 @@||app.portalsaseducacao.com.br/^$important
 @@||bing.com^$important
@@ -25,6 +25,36 @@
 @@||www.anhanguera.com^$important
 @@||anhanguera.com^$important
 @@||app.portalsaseducacao.com.br/entrar/^$important
+@@||a3b19e0c369a441aeb8ed458aa53b82d-6554924b82f7e9f3.elb.us-east-2.amazonaws.com^$important
+@@||d3n2zv395ut2nb.cloudfront.net^$important
+@@||k8s-saslatex-saslatex-183b8e66a1-957644386.us-east-2.elb.amazonaws.com^$important
+@@||d18g2pt418vtcj.cloudfront.net^$important
+@@||k8s-sasassig-sasassig-0157df7d03-1726756123.us-east-2.elb.amazonaws.com^$important
+@@||d2citsn5wf4j9j.cloudfront.net^$important
+@@||assets.adobedtm.com^$important
+@@||k8s-cosmosekstechcogn-d5dbb8ad51-1172881672.us-east-1.elb.amazonaws.com^$important
+@@||e215064.dscb.akamaiedge.net^$important
+@@||checkip.amazonaws.com^$important
+@@||log.api.useinsider.com^$important
+@@||falcon.useinsider.com^$important
+@@||segment.api.useinsider.com^$important
+@@||logsdk.kwai-pro.com^$important
+@@||x.cnt.my^$important
+@@||hit.api.useinsider.com^$important
+@@||s.pinimg.com^$important
+@@||crl3.digicert.com^$important
+@@||ocsp.digicert.com^$important
+@@||dev.visualwebsiteoptimizer.com^$important
+@@||d2p4w5abhahj5b.cloudfront.net^$important
+@@||strtec.s3.amazonaws.com^$important
+@@||provafacil-static.s3.amazonaws.com^$important
+@@||ampli-whitelabel-images.s3.amazonaws.com^$important
+@@||checkip.us-east-1.prod.check-ip.aws.a2z.com^$important
+@@||www.escolagames.com.br^
+@@||d3lm1ebjtoehzz.cloudfront.net^
+@@||pagead2.googlesyndication.com^$important
+@@||d2fgt67arwhm1j.cloudfront.net^$important
+@@||k8s-onboardi-atportal-650b5f8d0e-1344793867.us-east-1.elb.amazonaws.com^$important
 
 ! ---------------------------------------------------------------------
 ! SAS
