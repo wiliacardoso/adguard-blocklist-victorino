@@ -36,6 +36,18 @@
 
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
 ||geometrylitepc.io^
+||api.gameanalytics.com^$important
+||st.8games.net^$important
+||yastatic.net^$important
+||pokerogue.online^$important
+||puzzio.io^$important
+||geometry-games.io^$important
+||ns.photonengine.io^$important
+||playgama.com^$important
+||rocketgoal.io^$important
+||yandex.com^$important
+||sse.games.yandex.com^$important
+||games-prod-balancer.yandex.ru^$important
 ||solitaire.net^
 ||doodles.google^
 ||paciencia.co^
