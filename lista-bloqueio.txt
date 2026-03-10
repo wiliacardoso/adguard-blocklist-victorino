@@ -407,7 +407,6 @@
 ||cdn.stumbleplay.com^
 ||cdn.subwaygame.io^
 ||cdn.subwaysurfers.com^
-||cdn.terra.com.br^
 ||cdn.tlauncher.org^
 ||cdn.ubisoft.com^
 ||cdn.ufreegames.com^
@@ -456,7 +455,6 @@
 ||epicgames.com^
 ||especiais.g1.globo.com^
 ||esports.rocketleague.com^
-||ev.io^
 ||events.fortnite.com^
 ||extremecraft.net^
 ||fall-guys.io^
@@ -1457,7 +1455,7 @@
 ||dns.adguard.com^
 ||dns.comss.one^
 ||dns.digitale-gesellschaft.ch^
-||dns.google^
+! ||dns.google^
 ||dns.nextdns.io^
 ||dns.quad9.net^
 ||dns10.quad9.net^
@@ -1477,23 +1475,6 @@
 ||resolver3.opendns.com^
 ||resolver4.opendns.com^
 ||security.cloudflare-dns.com^
-
-! ===== BLOQUEIO IPTV / STREAM PIRATA (Sintaxe Corrigida) =====
-||futemax.com^
-||futemax.gg^
-||futemax.live^
-||futemax.to^
-||redecanais.com^
-||redecanais.net^
-||redecanais.to^
-||smartiptv.com^
-||superflix.com^
-||superflix.net^
-||superflix.to^
-||topflix.com^
-||topflix.net^
-||topflix.tv^
-||xtream.codes^
 
 ! ===== SITES DE PUBLISHERS / PORTAIS DE GAMES (web ports) =====
 ||gamedistribution.net^
@@ -1525,12 +1506,8 @@
 ||staticcrazygames.com^
 ||uploads.crazygames.com^
 
-! ===== Boqueios aleatórios / Firefox =====
-||game.cartoongames.io^$important
-||cartoongames.io^$important
-||overtide.io^$important
-||www.hahagames.com^$important
-||api.hahagames.com^$important
+! ===== Boqueios Firefox / Brave / Opera =====
+
 ||mozilla.org^
 ||support.mozilla.org^$important
 ||addons.mozilla.org^$important
@@ -1538,10 +1515,6 @@
 ||brave.com^$important
 ||www.opera.com^$important
 
-! ===== FERRAMENTAS E EDITORES ONLINE USADOS PARA RODAR JOGOS =====
-||construct.net^
-||phasereditor2d.com^
-||scirra.com^
 
 ! ===== --------- FIM DA LISTA ---------- =====
 
