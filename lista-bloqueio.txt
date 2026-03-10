@@ -3,74 +3,102 @@
 # Atualizado em 11/11/2025
 
 ! ===== BLOQUEIO REDES SOCIAIS =====
-# Facebook e Instagram
-||facebook.com^important
-||www.facebook.com^important
-||fbcdn.net^important
-||instagram.com^important
-||www.instagram.com^important
-||cdninstagram.com^important
-
-# WhatsApp
-||whatsapp.com^important
-||www.whatsapp.com^important
-||web.whatsapp.com^important
-||whatsapp.net^important
-||mmg.whatsapp.net^important
-||static.whatsapp.net^important
-
-# TikTok
-||tiktok.com^important
-||www.tiktok.com^important
-||tiktokcdn.com^important
-||tiktokv.com^important
-
-# Twitter / X
-||twitter.com^important
-||www.twitter.com^important
-||x.com^important
-||twimg.com^important
-
-# Snapchat
-||snapchat.com^important
-||sc-cdn.net^important
-
-# LinkedIn
-||linkedin.com^important
-||www.linkedin.com^important
-||licdn.com^important
-
-# Kwai
-||kwai.com^important
-||www.kwai.com^important
-||kwai.net^important
-||kwaicdn.com^important
+# BeReal
+||bereal.com^important
+||bereal.net^important
+||www.bereal.com^important
 
 # Discord
+||cdn.discordapp.com^important
 ||discord.com^important
-||www.discord.com^important
 ||discord.gg^important
 ||discordapp.com^important
 ||discordapp.net^important
-||cdn.discordapp.com^important
+||www.discord.com^important
 
-# Tumblr
-||tumblr.com^important
-||www.tumblr.com^important
-||media.tumblr.com^important
-||assets.tumblr.com^important
+# Facebook
+||facebook.com^important
+||fbcdn.net^important
+||www.facebook.com^important
+
+# Instagram
+||cdninstagram.com^important
+||instagram.com^important
+||www.instagram.com^important
+
+# Kwai
+||kwai.com^important
+||kwai.net^important
+||kwaicdn.com^important
+||www.kwai.com^important
+
+# LinkedIn
+||licdn.com^important
+||linkedin.com^important
+||www.linkedin.com^important
+
+# Reddit
+||redd.it^important
+||reddit.com^important
+||redditmedia.com^important
+||www.reddit.com^important
+
+# Signal
+||cdn.signal.org^important
+||signal.org^important
+||www.signal.org^important
+
+# Snapchat
+||sc-cdn.net^important
+||snapchat.com^important
 
 # Telegram
-||telegram.org^important
-||www.telegram.org^important
+||cdn.telegram.org^important
 ||t.me^important
 ||telegram.me^important
-||cdn.telegram.org^important
+||telegram.org^important
+||www.telegram.org^important
 
 # Threads
+||cdn.threads.net^important
 ||threads.net^important
 ||www.threads.net^important
-||cdn.threads.net^important
+
+# TikTok
+||tiktok.com^important
+||tiktokcdn.com^important
+||tiktokv.com^important
+||www.tiktok.com^important
+
+# Tumblr
+||assets.tumblr.com^important
+||media.tumblr.com^important
+||tumblr.com^important
+||www.tumblr.com^important
+
+# Twitter / X
+||twimg.com^important
+||twitter.com^important
+||www.twitter.com^important
+||x.com^important
+
+# Viber
+||viber.com^important
+||viber.net^important
+||www.viber.com^important
+
+# WeChat
+||wechat.com^important
+||wechat.net^important
+||www.wechat.com^important
+
+# WhatsApp
+||mmg.whatsapp.net^important
+||static.whatsapp.net^important
+||web.whatsapp.com^important
+||whatsapp.com^important
+||whatsapp.net^important
+||www.whatsapp.com^important
 
 
 # Bloqueio do WebCompanion
