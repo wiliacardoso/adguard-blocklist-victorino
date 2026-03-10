@@ -1156,18 +1156,28 @@
 ||addons.mozilla.org/pt-BR/firefox/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom^$
 ||extensions.mozilla.org^
 ||themes.mozilla.org^
+||addons.mozilla.org^
+||extensions.mozilla.org^
+||themes.mozilla.org^
+||services.addons.mozilla.org^
 
 #  Brave
 ||brave.com^$important
 ||extensions.brave.com^
+||braveextensions.com^
 
 # Opera
 ||www.opera.com^$important
 ||addons.opera.com^
+||extensions.opera.com^
 
 # Chrome / Edge (se usados na rede)
 ||chrome.google.com/webstore^
 ||microsoftedge.microsoft.com/addons^
+||clients2.google.com/service/update2^   ; usado para atualização de extensões
+||update.googleapis.com^                 ; também relacionado a updates
+||edge.microsoft.com/extensionwebstore^
+
 
 
 
