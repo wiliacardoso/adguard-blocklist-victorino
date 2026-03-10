@@ -898,7 +898,7 @@
 
 
 ! ===== BLOQUEIO APOSTAS ONLINE (GAMBLING) =====
-! == Internacionais ==
+# Internacionais 
 ||1xbet.com^
 ||1xbet.net^
 ||1xbet.org^
@@ -955,7 +955,7 @@
 ||sportsbet.com^
 ||sportsbet.net^
 
-!=== Nacionais ==
+# Nacionais 
 ||betano.com^
 ||br.betano.com^
 ||betnacional.com^
@@ -966,7 +966,7 @@
 ||pixbet.com^
 ||vai.bet^
 
-! === Cassinos ==
+# Cassinos 
 ||blaze.com^
 
 ||jogodotigrinho.com^
@@ -977,21 +977,88 @@
 ||tigrinhojogo.net^
 
 
-! ===== BLOQUEIO EMULADORES / ROMS / FLASH =====
+! ===== EMULADORES / ROMS / FLASH =====
+
+# Emuladores online
+
 ||classicgamer.com^
+||cdn.classicgamer.com^
+||files.classicgamer.com^
+||media.classicgamer.com^
+
 ||classicreload.com^
-||coolrom.com^
+||cdn.classicreload.com^
+||files.classicreload.com^
+||media.classicreload.com^
+||play.classicreload.com^
+
 ||emulator.online^
+||cdn.emulator.online^
+||files.emulator.online^
+||play.emulator.online^
+
 ||emulatoronline.com^
-||flasharch.com^
-||flashpointarchive.org^
-||numuki.com^
+||cdn.emulatoronline.com^
+||files.emulatoronline.com^
+||media.emulatoronline.com^
+||play.emulatoronline.com^
+
 ||retrogames.cc^
+||cdn.retrogames.cc^
+||files.retrogames.cc^
+||media.retrogames.cc^
+||play.retrogames.cc^
+
+||numuki.com^
+||cdn.numuki.com^
+||files.numuki.com^
+||media.numuki.com^
+||play.numuki.com^
+
+# ROMs e downloads
+
+||coolrom.com^
+||cdn.coolrom.com^
+||files.coolrom.com^
+||media.coolrom.com^
+
 ||romhustler.org^
+||cdn.romhustler.org^
+||files.romhustler.org^
+||media.romhustler.org^
+
 ||roms-download.com^
+||cdn.roms-download.com^
+||files.roms-download.com^
+||media.roms-download.com^
+
 ||romsfun.com^
+||cdn.romsfun.com^
+||files.romsfun.com^
+||media.romsfun.com^
+
 ||romsmania.cc^
+||cdn.romsmania.cc^
+||files.romsmania.cc^
+||media.romsmania.cc^
+
 ||vimm.net^
+||cdn.vimm.net^
+||files.vimm.net^
+||media.vimm.net^
+
+# Flash e preservação de jogos antigos
+
+||flasharch.com^
+||cdn.flasharch.com^
+||files.flasharch.com^
+||media.flasharch.com^
+
+||flashpointarchive.org^
+||cdn.flashpointarchive.org^
+||files.flashpointarchive.org^
+||media.flashpointarchive.org^
+
 
 
 ! ===== BLOQUEIO VPN / BYPASS / PROXY =====
