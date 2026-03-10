@@ -861,9 +861,6 @@
 ||track.ufreegames.com^
 ||www.ufreegames.com^
 
-||unity.com^
-||unitycdn.com^
-
 ||venge.io^
 
 ||y8.com^
