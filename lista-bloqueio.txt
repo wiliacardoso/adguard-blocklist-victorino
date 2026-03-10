@@ -102,16 +102,16 @@
 
 
 # Bloqueio do WebCompanion
-||webcompanion.com^
-||www.webcompanion.com^
-||webcompanion.com/en/install.php^
-||partner.webcompanion.com^
+||webcompanion.com^important
+||www.webcompanion.com^important
+||download.webcompanion.com^important
+||updates.webcompanion.com^important
+||cdn.webcompanion.com^important
 
-# Bloqueio do Pixelmon Brasil Oficial
-||pixelmonbrasiloficial.com.br^
-||www.pixelmonbrasiloficial.com.br^
 
 ! ===== BLOQUEIO JOGOS & PLATAFORMAS =====
+||pixelmonbrasiloficial.com.br^
+||www.pixelmonbrasiloficial.com.br^
 ||geometrylitepc.io^
 ||api.gameanalytics.com^$important
 ||st.8games.net^$important
