@@ -74,7 +74,7 @@
 @@||auth-server.portalsaseducacao.com.br^important
 @@||portal-api.sasdigital.com.br^important
 @@||cdn.rybena.com.br^important
-@@||
+@@||cdn.wehelpsoftware.com^important
 @@||avl-activity-bff.arcotech.io^$important
 @@||c.go-mpulse.net^$important
 @@||cdn.arcotech.io^$important
@@ -109,6 +109,12 @@
 @@||pdftron.com^$important
 @@||form.typeform.com^$important
 @@||renderer-assets.typeform.com^$important
+@@||digital-content-api-prod.s3.us-east-2.amazonaws.com^$important
+@@||ddbuxof6e6gb8.cloudfront.net^$important
+@@||k8s-sasauths-sasauths-f69e8fd827-1042415567.us-east-2.elb.amazonaws.com^$important
+@@||s3-r-w.us-east-1.amazonaws.com^$important
+@@||d3fzly01eipmb4.cloudfront.net^$important
+@@||s3-r-w.us-east-2.amazonaws.com^$important
 
 
 ! ---------------------------------------------------------------------
