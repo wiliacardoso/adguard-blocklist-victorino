@@ -1147,14 +1147,28 @@
 ||dns.yandex.net^
 
 
-! ===== Boqueios Firefox / Brave / Opera =====
+! ===== Boqueios Navegadores =====
 
+# Firefox (Mozilla)
 ||mozilla.org^
 ||support.mozilla.org^$important
 ||addons.mozilla.org^$important
 ||addons.mozilla.org/pt-BR/firefox/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom^$
+||extensions.mozilla.org^
+||themes.mozilla.org^
+
+#  Brave
 ||brave.com^$important
+||extensions.brave.com^
+
+# Opera
 ||www.opera.com^$important
+||addons.opera.com^
+
+# Chrome / Edge (se usados na rede)
+||chrome.google.com/webstore^
+||microsoftedge.microsoft.com/addons^
+
 
 
 ! ===== --------- FIM DA LISTA ---------- =====
