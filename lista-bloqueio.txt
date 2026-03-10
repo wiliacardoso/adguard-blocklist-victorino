@@ -898,6 +898,7 @@
 
 
 ! ===== BLOQUEIO APOSTAS ONLINE (GAMBLING) =====
+
 # Internacionais 
 ||1xbet.com^
 ||1xbet.net^
@@ -980,7 +981,6 @@
 ! ===== EMULADORES / ROMS / FLASH =====
 
 # Emuladores online
-
 ||classicgamer.com^
 ||cdn.classicgamer.com^
 ||files.classicgamer.com^
@@ -1016,7 +1016,6 @@
 ||play.numuki.com^
 
 # ROMs e downloads
-
 ||coolrom.com^
 ||cdn.coolrom.com^
 ||files.coolrom.com^
@@ -1048,7 +1047,6 @@
 ||media.vimm.net^
 
 # Flash e preservação de jogos antigos
-
 ||flasharch.com^
 ||cdn.flasharch.com^
 ||files.flasharch.com^
@@ -1060,15 +1058,28 @@
 ||media.flashpointarchive.org^
 
 
-
 ! ===== BLOQUEIO VPN / BYPASS / PROXY =====
+
+# VPNs comerciais
 ||api.protonvpn.ch^
-||betternet.co^
-||cloudflareclient.com^
-||cloudflareclient.net^
-||cloudflarewarp.com^
+||protonvpn.com^
 ||expressvpn.com^
 ||fastvpn.com^
+||nordvpn.com^
+||supervpn.co^
+||turbovpn.co^
+||surfshark.com^
+||hide.me^
+||vpnbook.com^
+||urban-vpn.com^
+||windscribe.com^
+||hotspotshield.com^
+||privateinternetaccess.com^
+||cyberghostvpn.com^
+||hola.org^
+||ultravpn.com^
+
+# Proxies escolares / bypass alternativos
 ||ggzy.io^
 ||holyubofficial.com^
 ||holyubofficial.net^
@@ -1076,24 +1087,26 @@
 ||incognito.fun^
 ||interstellarnetwork.cc^
 ||interstellarproxy.io^
-||nordvpn.com^
-||opera-mini.net^
-||opera.com^
-||protonvpn.com^
-||psiphon.ca^
-||psiphon3.com^
-||rdgames.space^
-||secure-proxy.opera.com^
-||supervpn.co^
 ||titaniumnetwork.org^
-||turbovpn.co^
 ||uvac.cc^
 ||uvrproxy.com^
-||vpnapi.io^
-||vpnfast.co^
+||zygarde.net^
+||rdgames.space^
+
+# Cloudflare Warp / Opera VPN
+||cloudflareclient.com^
+||cloudflareclient.net^
+||cloudflarewarp.com^
 ||warp.cloudflareclient.com^
 ||warp.plus^
-||zygarde.net^
+||opera-mini.net^
+||opera.com^
+||secure-proxy.opera.com^
+
+# Psiphon (VPN gratuita muito usada)
+||psiphon.ca^
+||psiphon3.com^
+
 
 ! ===== BLOQUEIO DE FUGA DE DNS CRIPTOGRAFADO (DoH) =====
 
