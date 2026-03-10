@@ -64,6 +64,7 @@
 @@||storage.portalsaseducacao.com.br^important
 @@||apimanager.educacross.com.br^$important
 @@||font.typeform.com^important
+@@||cdo-lms-web-prd.arcotech.io^important
 @@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
 @@||arclight.vimeo.com^$important
