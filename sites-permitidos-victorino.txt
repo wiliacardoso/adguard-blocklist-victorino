@@ -70,6 +70,11 @@
 @@||app.portalsaseducacao.com.br^$important
 @@||arclight.vimeo.com^$important
 @@||at-activity-bff.arcotech.io^$important
+@@||app.wehelpsoftware.com^important
+@@||auth-server.portalsaseducacao.com.br^important
+@@||portal-api.sasdigital.com.br^important
+@@||cdn.rybena.com.br^important
+@@||
 @@||avl-activity-bff.arcotech.io^$important
 @@||c.go-mpulse.net^$important
 @@||cdn.arcotech.io^$important
