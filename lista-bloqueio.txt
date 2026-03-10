@@ -898,19 +898,84 @@
 
 
 ! ===== BLOQUEIO APOSTAS ONLINE (GAMBLING) =====
+! == Internacionais ==
+||1xbet.com^
+||1xbet.net^
+||1xbet.org^
+||1xbet.live^
+
+||22bet.com^
+||22bet.net^
+
+||888sport.com^
+||888sport.net^
+
 ||bet365.com^
-||betano.com^
+||bet365.net^
+||bet365.org^
+
 ||betfair.com^
-||betnacional.com^
-||blaze.com^
+||betfair.net^
+||betfair.org^
+
+||betsson.com^
+||betsson.net^
+
+||betway.com^
+||betway.net^
+||betway.org^
+
+||dafabet.com^
+||dafabet.net^
+||dafabet.org^
+
+||leovegas.com^
+||leovegas.net^
+
+||marathonbet.com^
+||marathonbet.net^
+
+||melbet.com^
+||melbet.net^
+
+||parimatch.com^
+||parimatch.net^
+
+||pin-up.bet^
+||pinupbet.com^
+||pinupbet.net^
+
+||rivalo.com^
+||rivalo.net^
+||rivalo.org^
+
+||sportingbet.com^
+
+||sportsbet.io^
+||sportsbet.com^
+||sportsbet.net^
+
+!=== Nacionais ==
+||betano.com^
 ||br.betano.com^
+||betnacional.com^
 ||esportesdasorte.com^
 ||estrelabet.com^
 ||f12.bet^
 ||kto.com^
 ||pixbet.com^
-||sportingbet.com^
 ||vai.bet^
+
+! === Cassinos ==
+||blaze.com^
+
+||jogodotigrinho.com^
+||jogotigrinho.net^
+||jogotigrinho.org^
+||tigrinho.bet^
+||tigrinhojogo.com^
+||tigrinhojogo.net^
+
 
 ! ===== BLOQUEIO EMULADORES / ROMS / FLASH =====
 ||classicgamer.com^
