@@ -68,6 +68,9 @@
 @@||cdo-lms-web-prd.arcotech.io^important
 @@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
+@@||cdo-lms-web-prd.arcotech.io^important
+@@||cdn.rybena.com.br^important
+@@||
 @@||arclight.vimeo.com^$important
 @@||at-activity-bff.arcotech.io^$important
 @@||app.wehelpsoftware.com^important
