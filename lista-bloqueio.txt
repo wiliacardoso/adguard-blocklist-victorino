@@ -1110,29 +1110,42 @@
 
 ! ===== BLOQUEIO DE FUGA DE DNS CRIPTOGRAFADO (DoH) =====
 
-||dns-family.adguard.com^
-||dns.aa.net.uk^
-||dns.adguard.com^
-||dns.comss.one^
-||dns.digitale-gesellschaft.ch^
-! ||dns.google^
+# Provedores comerciais globais
+||dns.google^
+||dns.google.com^
+||cloudflare-dns.com^
+||security.cloudflare-dns.com^
+||1.1.1.1^
 ||dns.nextdns.io^
 ||dns.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
-||doh.cleanbrowsing.org^
-||doh.ffmuc.net^
-||doh.libredns.gr^
+||opendns.com^
 ||doh.opendns.com^
-||doh.powerdns.org^
-||doh.sb^
-||doh.tiarap.org^
 ||resolver1.opendns.com^
 ||resolver2.opendns.com^
 ||resolver3.opendns.com^
 ||resolver4.opendns.com^
-||security.cloudflare-dns.com^
+
+# Serviços alternativos / comunitários
+||dns-family.adguard.com^
+||dns.adguard.com^
+||dns.comss.one^
+||dns.digitale-gesellschaft.ch^
+||doh.cleanbrowsing.org^
+||doh.ffmuc.net^
+||doh.libredns.gr^
+||doh.powerdns.org^
+||doh.sb^
+||doh.tiarap.org^
+
+# Outros provedores relevantes (acréscimos sugeridos)
+||doh.mullvad.net^
+||comodo-secure-dns.com^
+||dns.yandex.com^
+||dns.yandex.net^
+
 
 ! ===== Boqueios Firefox / Brave / Opera =====
 
