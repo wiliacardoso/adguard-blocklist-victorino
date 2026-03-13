@@ -64,13 +64,15 @@
 @@||storage.portalsaseducacao.com.br^important
 @@||apimanager.educacross.com.br^$important
 @@||cdn.wehelpsoftware.com^important
+@@||cdn.rybena.com.br^important
 @@||font.typeform.com^important
 @@||cdo-lms-web-prd.arcotech.io^important
 @@||apiprod.educacross.com.br^$important
 @@||app.portalsaseducacao.com.br^$important
 @@||cdo-lms-web-prd.arcotech.io^important
 @@||cdn.rybena.com.br^important
-@@||
+@@||auth-server.portalsaseducacao.com.br^important
+@@||storage.portalsaseducacao.com.br^important
 @@||unity3d.com^important
 @@||www.unity3d.com^important
 @@||download.unity3d.com^important
@@ -94,7 +96,6 @@
 @@||cloudfront.net^important
 @@||fastly.net^important
 @@||googleusercontent.com^important
-
 @@||arclight.vimeo.com^$important
 @@||at-activity-bff.arcotech.io^$important
 @@||app.wehelpsoftware.com^important
