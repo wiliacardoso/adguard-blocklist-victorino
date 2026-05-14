@@ -52,13 +52,22 @@
 @@||segment.api.useinsider.com^$important
 @@||strtec.s3.amazonaws.com^$important
 @@||www.anhanguera.com^$important
-@@||www.escolagames.com.br^
+@@||www.escolagames.com.br^$important
+@@||static.escolagames.com.br^$important
+@@||assets.escolagames.com.br^$important
+@@||bestschoolgames.com^$important
+@@||brainly.com.br^$important
+@@||colegiovictorino.com.br^$important
 @@||x.cnt.my^$important
-@@|www.colegiovictorino.com.br^
+@@|www.colegiovictorino.com.br^$important
+@@|colegiovictorino.com.br^$important
+@@||pqx060np.r.us-east-1.awstrack.me^$important
 
 ! ---------------------------------------------------------------------
 ! SAS
 ! ---------------------------------------------------------------------
+@@||storage.portalsaseducacao.com.br^$important
+@@||vimeo.com^$important
 @@||1175_educationalsystem_webgl.unity3d^$important
 @@||latex.portalsaseducacao.com.br^$important
 @@||storage.portalsaseducacao.com.br^important
