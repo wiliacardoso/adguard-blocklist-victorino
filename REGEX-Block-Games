@@ -327,3 +327,34 @@
 /(^|\.)gba.*online.*$/
 /(^|\.)sega.*online.*$/
 /(^|\.)atari.*games.*$/
+
+# ==========================================
+# 10. NOVAS FEBRES (Extraídos da Lista de Maio/2026)
+# ==========================================
+/gartic/
+/classroom6x/
+/bonk\.io/
+/evowars/
+/amongusgame/
+/frivclassic/
+/jogos10/
+/jogosjogos/
+/jogosplay/
+
+# ==========================================
+# 11. CASSINOS ONLINE E APOSTAS ("BETS")
+# Bloqueio crítico para o Ensino Médio
+# ==========================================
+/bet365/
+/betano/
+/betfair/
+/betnacional/
+/blaze\.com/
+/pixbet/
+/sportingbet/
+/1xbet/
+/esportesdasorte/
+/estrelabet/
+/galerabet/
+/superbet/
+/brabet/
