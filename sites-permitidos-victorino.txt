@@ -62,6 +62,13 @@
 @@|www.colegiovictorino.com.br^$important
 @@|colegiovictorino.com.br^$important
 @@||pqx060np.r.us-east-1.awstrack.me^$important
+@@||stopots.com^$important
+@@||time.windows.com^$important
+@@||pulso.arcotech.io^$important
+@@||app.escoladainteligencia.com.br^$important
+@@||portal-bff.escoladainteligencia.com.br^$important
+@@||portal.escoladainteligencia.com.br^$important
+@@||plus-smartflow-bff.arcotech.io^$important
 
 ! ---------------------------------------------------------------------
 ! SAS
