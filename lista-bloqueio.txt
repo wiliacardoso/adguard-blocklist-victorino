@@ -2515,3 +2515,65 @@
 ||portal.1xbet.com^$important
 ||client.1xbet.com^$important
 
+! ==========================================
+! PROXIES WEB E BURLADORES (ANTI-BYPASS)
+! ==========================================
+||croxyproxy.com^$important
+||www.croxyproxy.com^$important
+||app.croxyproxy.com^$important
+||api.croxyproxy.com^$important
+||login.croxyproxy.com^$important
+
+||blockaway.net^$important
+||www.blockaway.net^$important
+||app.blockaway.net^$important
+||api.blockaway.net^$important
+
+||proxysite.com^$important
+||www.proxysite.com^$important
+||app.proxysite.com^$important
+
+! ==========================================
+! CHAT GAMER E STREAMING
+! ==========================================
+||discord.com^$important
+||www.discord.com^$important
+||app.discord.com^$important
+||api.discord.com^$important
+||gateway.discord.com^$important
+||media.discord.com^$important
+||cdn.discordapp.com^$important
+
+||twitch.tv^$important
+||www.twitch.tv^$important
+||app.twitch.tv^$important
+||api.twitch.tv^$important
+||player.twitch.tv^$important
+||gql.twitch.tv^$important
+
+! ==========================================
+! MAIS APOSTAS / CASSINOS EM ALTA
+! ==========================================
+||esportesdasorte.com^$important
+||www.esportesdasorte.com^$important
+||app.esportesdasorte.com^$important
+||api.esportesdasorte.com^$important
+||login.esportesdasorte.com^$important
+
+||estrelabet.com^$important
+||www.estrelabet.com^$important
+||app.estrelabet.com^$important
+||api.estrelabet.com^$important
+||login.estrelabet.com^$important
+
+||superbet.com^$important
+||www.superbet.com^$important
+||app.superbet.com^$important
+||api.superbet.com^$important
+||login.superbet.com^$important
+
+||brabet.com^$important
+||www.brabet.com^$important
+||app.brabet.com^$important
+||api.brabet.com^$important
+||login.brabet.com^$important
