@@ -2173,26 +2173,9 @@
 ||login.1xbet.com^$important
 
 ! ===== HOSPEDAGEM =====
-||github.io^$important
-||gitlab.io^$important
 ||netlify.app^$important
 ||pages.dev^$important
 ||vercel.app^$important
 ||replit.app^$important
 ||repl.co^$important
 
-! ===== REGEX =====
-/Roblox/
-/minecraft/
-/shellshock/
-/subway-surfers/
-/subwaysurfers/
-/poorbunny/
-/ragdoll/
-/geometry.*dash/
-/.*unblocked.*games.*/
-/.*roblox.*/
-/.*minecraft.*/
-/.*fnf.*/
-/.*poki.*/
-/.*crazygames.*/
