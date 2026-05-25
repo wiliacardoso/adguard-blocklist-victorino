@@ -69,6 +69,12 @@
 @@||portal-bff.escoladainteligencia.com.br^$important
 @@||portal.escoladainteligencia.com.br^$important
 @@||plus-smartflow-bff.arcotech.io^$important
+@@||www.chess.com^$important
+@@||chess.com^$important
+@@||lichess.org^$important
+@@||www.playok.com^$important
+@@||playok.com^$important
+
 
 ! ---------------------------------------------------------------------
 ! SAS
