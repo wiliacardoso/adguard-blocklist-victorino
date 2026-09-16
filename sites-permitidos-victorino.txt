@@ -258,7 +258,6 @@
 @@||genially.com^
 @@||github.com^
 @@||githubusercontent.com^
-@@||google.com^
 @@||learn.microsoft.com^
 @@||livrosdigitais.portalsaseducacao.com.br^
 @@||microsoft.com^
