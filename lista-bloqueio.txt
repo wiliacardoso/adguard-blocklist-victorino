@@ -1991,12 +1991,6 @@
 ||web.x.com^$important
 ||login.x.com^$important
 ||mobile.x.com^$important
-! ||whatsapp.com^$important
-! ||www.whatsapp.com^$important
-! ||app.whatsapp.com^$important
-! ||web.whatsapp.com^$important
-! ||login.whatsapp.com^$important
-! ||mobile.whatsapp.com^$important
 ||snapchat.com^$important
 ||www.snapchat.com^$important
 ||app.snapchat.com^$important
