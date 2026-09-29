@@ -5,6 +5,7 @@
 ! ===== JOGOS =====
 ||1001games.com^$important
 ||www.1001games.com^$important
+||www.msn.com/en-sg/play/games^$important
 ||app.1001games.com^$important
 ||play.1001games.com^$important
 ||games.1001games.com^$important
