@@ -17,6 +17,7 @@
 /(^|\.)sega.*online.*$/
 /(^|\.)snes.*online.*$/
 /*firegames*/
+/growden/
 /1001jogos/
 /1games/
 /1v1\.lol/
