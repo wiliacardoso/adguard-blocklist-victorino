@@ -12,6 +12,7 @@
 ||game.1001games.com^$important
 ||api.1001games.com^$important
 ||login.1001games.com^$important
+||play.google.com^$important
 ||store.1001games.com^$important
 ||online.1001games.com^$important
 ||files.1001games.com^$important
