@@ -14,6 +14,12 @@
 ! Serviços do Colégio e Anhanguera
 ! ---------------------------------------------------------------------
 @@||a3b19e0c369a441aeb8ed458aa53b82d-6554924b82f7e9f3.elb.us-east-2.amazonaws.com^$important
+@@||api.escolagames.com.br^important
+@@||escolagames.com.br^important
+@@||cdo-files-v2-prd.arcotech.io
+@@||cdo-lms-web-prd.arcotech.io
+@@||cdn.sirdata.io
+@@||cdn.growthbook.io
 @@||ampli-whitelabel-images.s3.amazonaws.com^$important
 @@||anhanguera.com^$important
 @@||app.portalsaseducacao.com.br/^$important
